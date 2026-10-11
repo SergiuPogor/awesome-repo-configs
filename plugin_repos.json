@@ -1,4 +1,13 @@
 {
+  "nd-silva-08/QA-visual": {
+    "name": "qa-visual",
+    "description": "Before/after diagrams for every pull request: draws a PR's architecture or logic twice, highlights new, changed and removed parts, and links each to its diff hunks and the QA checks to run.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nd-silva-08",
+    "repoName": "QA-visual",
+    "repoBranch": "main"
+  },
   "paragpandyareal/lazy-panda-panel": {
     "name": "lazy-panda-panel",
     "description": "Review and comment on the Word, Excel, PDF, Markdown, HTML and Confluence files Claude makes, in a pane inside Claude Code. Claude edits the real file.",
