@@ -45416,5 +45416,12 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "waynehamadi/datacircle-plugin": {
+        "owner": "waynehamadi",
+        "name": "datacircle-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
