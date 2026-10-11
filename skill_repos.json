@@ -1,4 +1,11 @@
 {
+    "nd-silva-08/QA-visual": {
+        "owner": "nd-silva-08",
+        "name": "QA-visual",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "kubec/abuzzhive.com": {
         "owner": "kubec",
         "name": "abuzzhive.com",
