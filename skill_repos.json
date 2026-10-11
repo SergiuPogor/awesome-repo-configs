@@ -45550,5 +45550,98 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "wenlan-app/wenlan": {
+        "owner": "wenlan-app",
+        "name": "wenlan",
+        "branch": "main",
+        "enabled": true
+    },
+    "codenamev/ai-software-architect": {
+        "owner": "codenamev",
+        "name": "ai-software-architect",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "moshehbenavraham/apex-spec-system": {
+        "owner": "moshehbenavraham",
+        "name": "apex-spec-system",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wrsmith108/plan-review-skill": {
+        "owner": "wrsmith108",
+        "name": "plan-review-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "testland/qa": {
+        "owner": "testland",
+        "name": "qa",
+        "branch": "main",
+        "enabled": true
+    },
+    "Hasan-Laraib/Mirofy": {
+        "owner": "Hasan-Laraib",
+        "name": "Mirofy",
+        "branch": "main",
+        "enabled": true
+    },
+    "vishalhabib99/mcp-doctor": {
+        "owner": "vishalhabib99",
+        "name": "mcp-doctor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "EngDawood/awesome-arabic-claude-skills": {
+        "owner": "EngDawood",
+        "name": "awesome-arabic-claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rijans/agent-skills": {
+        "owner": "rijans",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "berthelius/north": {
+        "owner": "berthelius",
+        "name": "north",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "snappedly/skills": {
+        "owner": "snappedly",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Arhaty/claude-plugins": {
+        "owner": "Arhaty",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "AfterRealm/marketplace": {
+        "owner": "AfterRealm",
+        "name": "marketplace",
+        "branch": "master",
+        "enabled": true
+    },
+    "aantenore/mpsf": {
+        "owner": "aantenore",
+        "name": "mpsf",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

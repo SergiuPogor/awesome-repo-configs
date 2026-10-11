@@ -6085,5 +6085,26 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "wenlan-app/wenlan": {
+    "owner": "wenlan-app",
+    "name": "wenlan",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "codenamev/ai-software-architect": {
+    "owner": "codenamev",
+    "name": "ai-software-architect",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "dryvist/ai-assistant-instructions": {
+    "owner": "dryvist",
+    "name": "ai-assistant-instructions",
+    "branch": "develop",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

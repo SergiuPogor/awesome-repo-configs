@@ -37720,5 +37720,131 @@
     "repoOwner": "ateymoori",
     "repoName": "oh-my-android",
     "repoBranch": "main"
+  },
+  "karanb192/awesome-claude-code-mods": {
+    "name": "karanb192/awesome-claude-code-mods",
+    "description": "Community catalogue of public Claude Code mods (function hooks), scanned from GitHub with what each mod can read, write, run or send over the network. Browse https://mods.aidojo.si/",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "karanb192",
+    "repoName": "awesome-claude-code-mods",
+    "repoBranch": "main"
+  },
+  "wenlan-app/wenlan": {
+    "name": "wenlan-app/wenlan",
+    "description": "A living personal wiki. Wenlan turns your documents, notes, and AI chats into pages with links to their sources, and updates them as sources change without overwriting your edits. Claude Code, Codex and other AI tools...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wenlan-app",
+    "repoName": "wenlan",
+    "repoBranch": "main"
+  },
+  "codenamev/ai-software-architect": {
+    "name": "codenamev/ai-software-architect",
+    "description": "AI-powered architecture documentation framework with ADRs, reviews, and pragmatic mode. Now available as Claude Code Plugin for easiest installation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "codenamev",
+    "repoName": "ai-software-architect",
+    "repoBranch": "main"
+  },
+  "moshehbenavraham/apex-spec-system": {
+    "name": "moshehbenavraham/apex-spec-system",
+    "description": "Specification-driven workflow system for AI-assisted development - break large projects into manageable 2-4 hour sessions with 15-30 tasks each.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "moshehbenavraham",
+    "repoName": "apex-spec-system",
+    "repoBranch": "main"
+  },
+  "testland/qa": {
+    "name": "testland/qa",
+    "description": "Claude Code plugin marketplace of reviewed QA skills and agents: test automation, API, load, security, accessibility, mobile and manual testing.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "testland",
+    "repoName": "qa",
+    "repoBranch": "main"
+  },
+  "Hasan-Laraib/Mirofy": {
+    "name": "Hasan-Laraib/Mirofy",
+    "description": "Repository diagrams that cite their sources. Every edge names the file, line and commit it came from \u2014 and every file it could not read is listed by name. Six languages, zero dependencies, one self-contained HTML file...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Hasan-Laraib",
+    "repoName": "Mirofy",
+    "repoBranch": "main"
+  },
+  "vishalhabib99/mcp-doctor": {
+    "name": "vishalhabib99/mcp-doctor",
+    "description": "Static audit of MCP servers for what breaks an agent calling them. Part of a 3-tool QA suite: mcp-trust-check runs all three. Catches missing descriptions, undocumented params, unhandled errors, contradictory safety a...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vishalhabib99",
+    "repoName": "mcp-doctor",
+    "repoBranch": "main"
+  },
+  "rijans/agent-skills": {
+    "name": "rijans/agent-skills",
+    "description": "Portable Agent Skills for AI coding agents, editors, and assistants \u2014 built for practical, reusable workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rijans",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "oztrkemree/mochi": {
+    "name": "oztrkemree/mochi",
+    "description": "Mochi: a clay mascot for Claude Code that reacts to everything it does",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oztrkemree",
+    "repoName": "mochi",
+    "repoBranch": "main"
+  },
+  "Arhaty/claude-plugins": {
+    "name": "Arhaty/claude-plugins",
+    "description": "Claude Code plugins by Arhaty: spec-driven developmentworkflow and copy that reads like a person wrote it.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Arhaty",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "AfterRealm/marketplace": {
+    "name": "AfterRealm/marketplace",
+    "description": "Claude Code plugin marketplace by AfterRealm: code roasts, accessibility audits, voice input, agent management, and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AfterRealm",
+    "repoName": "marketplace",
+    "repoBranch": "master"
+  },
+  "FrBmt-BIGetNouf/alarum-claude-mod": {
+    "name": "FrBmt-BIGetNouf/alarum-claude-mod",
+    "description": "Your Alarum events above Claude Code's prompt: what just arrived, and one press to hand it to the agent.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "FrBmt-BIGetNouf",
+    "repoName": "alarum-claude-mod",
+    "repoBranch": "main"
+  },
+  "comertial/comertial-mods": {
+    "name": "comertial/comertial-mods",
+    "description": "Claude Code mods for real Engineers",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "comertial",
+    "repoName": "comertial-mods",
+    "repoBranch": "main"
+  },
+  "aantenore/mpsf": {
+    "name": "aantenore/mpsf",
+    "description": "Plugin for Claude Code and Codex that turns requests, decisions, contracts, changes and verification into an auditable workflow and visual project timeline.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aantenore",
+    "repoName": "mpsf",
+    "repoBranch": "main"
   }
 }
