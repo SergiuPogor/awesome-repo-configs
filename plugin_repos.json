@@ -37612,5 +37612,14 @@
     "repoOwner": "waynehamadi",
     "repoName": "datacircle-plugin",
     "repoBranch": "main"
+  },
+  "iamumeransari/claude-show-your-work": {
+    "name": "show-your-work",
+    "description": "Claude shows its finished work inline in the terminal: screenshots, Playwright recordings of it clicking through your app, and synced side-by-side before/after QA.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iamumeransari",
+    "repoName": "claude-show-your-work",
+    "repoBranch": "main"
   }
 }
