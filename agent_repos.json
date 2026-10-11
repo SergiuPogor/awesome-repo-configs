@@ -6078,5 +6078,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "ForgeyClap/Forge-Core": {
+    "owner": "ForgeyClap",
+    "name": "Forge-Core",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

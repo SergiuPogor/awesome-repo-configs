@@ -37621,5 +37621,95 @@
     "repoOwner": "iamumeransari",
     "repoName": "claude-show-your-work",
     "repoBranch": "main"
+  },
+  "weishao2/tizhuang-agent-skills": {
+    "name": "weishao2/tizhuang-agent-skills",
+    "description": "2000\u4e07+\u4e2d\u5c0f\u5b66K12\u771f\u9898\u9898\u5e93 Skill\uff1a\u514d\u8d39\u6ce8\u518c\u3001\u514d\u8d39\u62bd\u9898\u3001\u6559\u6750/\u7ae0\u8282/\u77e5\u8bc6\u70b9\u68c0\u7d22\u3001\u7ec3\u4e60\u6d4b\u9a8c\u4e0eAI\u667a\u80fd\u7ec4\u5377\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "weishao2",
+    "repoName": "tizhuang-agent-skills",
+    "repoBranch": "main"
+  },
+  "HaiYangBG1/BuildBeat": {
+    "name": "HaiYangBG1/BuildBeat",
+    "description": "\u6362\u4f1a\u8bdd\u3001\u6362\u8f6f\u4ef6\u3001\u6362\u7535\u8111\u3001\u6362\u4eba\uff0c\u90fd\u4e0d\u7528\u4ece\u5934\u8bb2\u4e00\u904d\uff1aBuildBeat \u628a\u8981\u505a\u7684\u4e8b\u3001\u8fdb\u5ea6\u548c\u51b3\u5b9a\u8bb0\u5728\u9879\u76ee\u548c Git \u91cc\uff0cAI \u5199\u4ee3\u7801\u3001\u6d4b\u8bd5\u3001\u5ba1\u67e5\u3001\u4fee\u95ee\u9898\uff0c\u6700\u540e\u7b49\u4f60\u62cd\u677f\u3002| Switch sessions, tools, computers or people without starting over. Work, progress and decisions live in your project and Git; the AI b...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HaiYangBG1",
+    "repoName": "BuildBeat",
+    "repoBranch": "main"
+  },
+  "ForgeyClap/Forge-Core": {
+    "name": "ForgeyClap/Forge-Core",
+    "description": "Forge-Core: a multi-agent build, test and review setup for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ForgeyClap",
+    "repoName": "Forge-Core",
+    "repoBranch": "main"
+  },
+  "FrBmt-BIGetNouf/floatee-claude-mod": {
+    "name": "FrBmt-BIGetNouf/floatee-claude-mod",
+    "description": "Your Floatee backlog above Claude Code's prompt: run, guide and tick your todos in one click.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "FrBmt-BIGetNouf",
+    "repoName": "floatee-claude-mod",
+    "repoBranch": "main"
+  },
+  "matr1xp/local-mods": {
+    "name": "matr1xp/local-mods",
+    "description": "Claude Code terminal UI mods: a status band above the prompt and side panes for token usage and git changes",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "matr1xp",
+    "repoName": "local-mods",
+    "repoBranch": "master"
+  },
+  "culmat/avanti-luanti": {
+    "name": "culmat/avanti-luanti",
+    "description": "Agent-based factory for Luanti (Minetest) mods: Claude Code plugin, avanti CLI, headless multi-game testing, mod template and CI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "culmat",
+    "repoName": "avanti-luanti",
+    "repoBranch": "main"
+  },
+  "arty-kk/vibe-coding": {
+    "name": "arty-kk/vibe-coding",
+    "description": "43 Codex skills and 221 engineering workflows for mapping, review, debugging and verification.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arty-kk",
+    "repoName": "vibe-coding",
+    "repoBranch": "main"
+  },
+  "geevarghesekthomas84-sys/image-style-skill": {
+    "name": "geevarghesekthomas84-sys/image-style-skill",
+    "description": "Slash-command image prompt skill: 380+ commands for Claude, ChatGPT, Gemini, Flow, Kling, Midjourney",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "geevarghesekthomas84-sys",
+    "repoName": "image-style-skill",
+    "repoBranch": "main"
+  },
+  "pharn-dev/skills": {
+    "name": "pharn-dev/skills",
+    "description": "Claude Code skills for PHARN and Argus. Argus skills also work in Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pharn-dev",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "loootai/reverse-engineer": {
+    "name": "loootai/reverse-engineer",
+    "description": "Open-source skills for AI agents: reverse engineer a product from public evidence, rebuild it on looot, request the data sources that are missing.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "loootai",
+    "repoName": "reverse-engineer",
+    "repoBranch": "main"
   }
 }

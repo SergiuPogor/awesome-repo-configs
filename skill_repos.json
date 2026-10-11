@@ -45423,5 +45423,132 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "oil-oil/oil-ui": {
+        "owner": "oil-oil",
+        "name": "oil-ui",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Karanjot786/agent-skills-cli": {
+        "owner": "Karanjot786",
+        "name": "agent-skills-cli",
+        "branch": "main",
+        "enabled": true
+    },
+    "weishao2/tizhuang-agent-skills": {
+        "owner": "weishao2",
+        "name": "tizhuang-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "HaiYangBG1/BuildBeat": {
+        "owner": "HaiYangBG1",
+        "name": "BuildBeat",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sunsiyuan/ultramotion": {
+        "owner": "sunsiyuan",
+        "name": "ultramotion",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Boriwatopal/agent-skill-line-character-studio": {
+        "owner": "Boriwatopal",
+        "name": "agent-skill-line-character-studio",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ForgeyClap/Forge-Core": {
+        "owner": "ForgeyClap",
+        "name": "Forge-Core",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "culmat/avanti-luanti": {
+        "owner": "culmat",
+        "name": "avanti-luanti",
+        "branch": "main",
+        "enabled": true
+    },
+    "yair-zehavi/claude-code-skills": {
+        "owner": "yair-zehavi",
+        "name": "claude-code-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "maxgfr/scopelet": {
+        "owner": "maxgfr",
+        "name": "scopelet",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "arty-kk/vibe-coding": {
+        "owner": "arty-kk",
+        "name": "vibe-coding",
+        "branch": "main",
+        "enabled": true
+    },
+    "g-alantok/simple-skills": {
+        "owner": "g-alantok",
+        "name": "simple-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "ADC1920/meeting-notes-expert": {
+        "owner": "ADC1920",
+        "name": "meeting-notes-expert",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ADC1920/av-to-transcript-and-minutes": {
+        "owner": "ADC1920",
+        "name": "av-to-transcript-and-minutes",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "geevarghesekthomas84-sys/image-style-skill": {
+        "owner": "geevarghesekthomas84-sys",
+        "name": "image-style-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "pharn-dev/skills": {
+        "owner": "pharn-dev",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "ecko-lang/skill": {
+        "owner": "ecko-lang",
+        "name": "skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "loootai/reverse-engineer": {
+        "owner": "loootai",
+        "name": "reverse-engineer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "warodan/vscode-claude-code-patch": {
+        "owner": "warodan",
+        "name": "vscode-claude-code-patch",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
