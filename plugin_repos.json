@@ -37711,5 +37711,14 @@
     "repoOwner": "loootai",
     "repoName": "reverse-engineer",
     "repoBranch": "main"
+  },
+  "ateymoori/oh-my-android": {
+    "name": "oh-my-android",
+    "description": "Let Claude see and drive the Android Emulator and phones over adb: screenshots and UI tree in dp, taps, dark mode, font scale, RTL, logcat. Needs the free Oh My Android macOS app.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ateymoori",
+    "repoName": "oh-my-android",
+    "repoBranch": "main"
   }
 }
