@@ -6113,5 +6113,26 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "paperclipai/paperclip": {
+    "owner": "paperclipai",
+    "name": "paperclip",
+    "branch": "master",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "RemyLespagnol/haiku-scribe": {
+    "owner": "RemyLespagnol",
+    "name": "haiku-scribe",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "sattva2020/keystone": {
+    "owner": "sattva2020",
+    "name": "keystone",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

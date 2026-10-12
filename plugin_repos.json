@@ -37954,5 +37954,113 @@
     "repoOwner": "UtsavBalar1231",
     "repoName": "oh-my-claudeagent",
     "repoBranch": "main"
+  },
+  "paperclipai/paperclip": {
+    "name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "paperclipai",
+    "repoName": "paperclip",
+    "repoBranch": "master"
+  },
+  "walkwithedi/evergreen-wiki": {
+    "name": "walkwithedi/evergreen-wiki",
+    "description": "An LLM-maintained knowledge base that stays current, cites its sources and is easy for an assistant to search.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "walkwithedi",
+    "repoName": "evergreen-wiki",
+    "repoBranch": "main"
+  },
+  "EfiPerez/claude-code-skills": {
+    "name": "EfiPerez/claude-code-skills",
+    "description": "Practical Claude Code skills for real day-to-day work. Install with: /plugin marketplace add EfiPerez/claude-code-skills",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "EfiPerez",
+    "repoName": "claude-code-skills",
+    "repoBranch": "main"
+  },
+  "florian101010/cache-meter": {
+    "name": "florian101010/cache-meter",
+    "description": "Claude Code mod that saves you prompt-cache re-writes: /keepwarm keeps the cache alive through a break, a live countdown above the prompt shows when it expires, and the /tokens dashboard shows hit rates, what caching...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "florian101010",
+    "repoName": "cache-meter",
+    "repoBranch": "main"
+  },
+  "Happykiller/claude-cockpit": {
+    "name": "Happykiller/claude-cockpit",
+    "description": "Animated cockpit for Claude Code: live session activity (model, effort, mode, limits, context) and the execution plan as a timeline",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Happykiller",
+    "repoName": "claude-cockpit",
+    "repoBranch": "master"
+  },
+  "RemyLespagnol/haiku-scribe": {
+    "name": "RemyLespagnol/haiku-scribe",
+    "description": "Claude Code plugin: a read-only Haiku subagent that compresses broad context (surveys, logs, transcripts) into a compact brief \u2014 sparing your main model's context.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "RemyLespagnol",
+    "repoName": "haiku-scribe",
+    "repoBranch": "main"
+  },
+  "MSKazemi/reachweaver": {
+    "name": "MSKazemi/reachweaver",
+    "description": "Claude Code skill for evidence-backed social media planning, approval-first scheduling, publishing workflows, and analytics.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MSKazemi",
+    "repoName": "reachweaver",
+    "repoBranch": "main"
+  },
+  "jgoneit/jaekit": {
+    "name": "jgoneit/jaekit",
+    "description": "Spec turns requests into goal documents; Seal implements, verifies, and records completion.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jgoneit",
+    "repoName": "jaekit",
+    "repoBranch": "main"
+  },
+  "Kadajett/cockney": {
+    "name": "Kadajett/cockney",
+    "description": "Cockney: a cheeky coding-agent skill. Terse replies, the smallest correct change, plain English for anything risky. For omp, Claude Code, Codex and any AGENTS.md agent.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Kadajett",
+    "repoName": "cockney",
+    "repoBranch": "master"
+  },
+  "sravansai04/engineering-skills": {
+    "name": "sravansai04/engineering-skills",
+    "description": "Claude Code plugin marketplace: 28 company-agnostic skills for planning, building, testing, reviewing and shipping software",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sravansai04",
+    "repoName": "engineering-skills",
+    "repoBranch": "main"
+  },
+  "sattva2020/keystone": {
+    "name": "sattva2020/keystone",
+    "description": "Keystone \u2014 intent-first workflow for Claude Code. Process sized to the change: intent \u2192 plan \u2192 independent check \u2192 implement \u2192 verify, with hook-based gates.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sattva2020",
+    "repoName": "keystone",
+    "repoBranch": "main"
+  },
+  "Questi0nM4rk/qsm-marketplace": {
+    "name": "Questi0nM4rk/qsm-marketplace",
+    "description": "Claude Code marketplace of 27 small plugins: skills, agents, hooks and CLI tools that help an agent check its own work",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Questi0nM4rk",
+    "repoName": "qsm-marketplace",
+    "repoBranch": "main"
   }
 }

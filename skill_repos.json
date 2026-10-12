@@ -45760,5 +45760,103 @@
         "name": "agent-extension-registry",
         "branch": "main",
         "enabled": true
+    },
+    "paperclipai/paperclip": {
+        "owner": "paperclipai",
+        "name": "paperclip",
+        "branch": "master",
+        "enabled": true
+    },
+    "Mahanaicoach/google-maps-scraper-kit": {
+        "owner": "Mahanaicoach",
+        "name": "google-maps-scraper-kit",
+        "branch": "master",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "LittleBeaverStudio/KingdeeDataExporter": {
+        "owner": "LittleBeaverStudio",
+        "name": "KingdeeDataExporter",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "LittleBeaverStudio/KingdeeDataAnalyzer": {
+        "owner": "LittleBeaverStudio",
+        "name": "KingdeeDataAnalyzer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "LittleBeaverStudio/KingdeeExpenseFlow": {
+        "owner": "LittleBeaverStudio",
+        "name": "KingdeeExpenseFlow",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "walkwithedi/evergreen-wiki": {
+        "owner": "walkwithedi",
+        "name": "evergreen-wiki",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "EfiPerez/claude-code-skills": {
+        "owner": "EfiPerez",
+        "name": "claude-code-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "drkostas/claude-human": {
+        "owner": "drkostas",
+        "name": "claude-human",
+        "branch": "main",
+        "enabled": true
+    },
+    "jingzhao-l/iterate-skill": {
+        "owner": "jingzhao-l",
+        "name": "iterate-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "MSKazemi/reachweaver": {
+        "owner": "MSKazemi",
+        "name": "reachweaver",
+        "branch": "main",
+        "enabled": true
+    },
+    "jgoneit/jaekit": {
+        "owner": "jgoneit",
+        "name": "jaekit",
+        "branch": "main",
+        "enabled": true
+    },
+    "Kadajett/cockney": {
+        "owner": "Kadajett",
+        "name": "cockney",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sravansai04/engineering-skills": {
+        "owner": "sravansai04",
+        "name": "engineering-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "sattva2020/keystone": {
+        "owner": "sattva2020",
+        "name": "keystone",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Questi0nM4rk/qsm-marketplace": {
+        "owner": "Questi0nM4rk",
+        "name": "qsm-marketplace",
+        "branch": "main",
+        "enabled": true
     }
 }
