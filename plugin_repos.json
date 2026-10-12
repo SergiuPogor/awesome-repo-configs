@@ -1,4 +1,13 @@
 {
+  "WarmerlyApp/claude-plugin": {
+    "name": "warmerly",
+    "description": "Warmerly's MCP server plus four workflow skills for cold email campaigns, deliverability checks, reply triage and transactional email setup.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "WarmerlyApp",
+    "repoName": "claude-plugin",
+    "repoBranch": "main"
+  },
   "nd-silva-08/QA-visual": {
     "name": "qa-visual",
     "description": "Before/after diagrams for every pull request: draws a PR's architecture or logic twice, highlights new, changed and removed parts, and links each to its diff hunks and the QA checks to run.",
