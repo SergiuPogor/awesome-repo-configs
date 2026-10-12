@@ -37945,5 +37945,14 @@
     "repoOwner": "tk1475",
     "repoName": "style-contract",
     "repoBranch": "main"
+  },
+  "UtsavBalar1231/oh-my-claudeagent": {
+    "name": "oh-my-claudeagent",
+    "description": "A Claude Code plugin that plans work, hands each task to a specialist agent, and checks it was verified.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "UtsavBalar1231",
+    "repoName": "oh-my-claudeagent",
+    "repoBranch": "main"
   }
 }
