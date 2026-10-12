@@ -38062,5 +38062,14 @@
     "repoOwner": "Questi0nM4rk",
     "repoName": "qsm-marketplace",
     "repoBranch": "main"
+  },
+  "Kruhlikau/subagent-tuner": {
+    "name": "subagent-tuner",
+    "description": "Claude Code mod that picks the model and reasoning effort of every subagent: ask before it starts, recommend by task kind, or apply a saved default over what the agent requested.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Kruhlikau",
+    "repoName": "subagent-tuner",
+    "repoBranch": "main"
   }
 }
