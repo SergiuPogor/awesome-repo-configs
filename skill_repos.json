@@ -45643,5 +45643,122 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "gustavomenani/editing-gameplay-montages": {
+        "owner": "gustavomenani",
+        "name": "editing-gameplay-montages",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nanosite-ai/nanoflow": {
+        "owner": "nanosite-ai",
+        "name": "nanoflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "arminzou/dotbrain": {
+        "owner": "arminzou",
+        "name": "dotbrain",
+        "branch": "main",
+        "enabled": true
+    },
+    "nzl153/paint-video-skill": {
+        "owner": "nzl153",
+        "name": "paint-video-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "wjyxiaojiu-del/zafu-thesis-formatter-skill": {
+        "owner": "wjyxiaojiu-del",
+        "name": "zafu-thesis-formatter-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "HoloSoul-Team/bloom-study-guide-mcp": {
+        "owner": "HoloSoul-Team",
+        "name": "bloom-study-guide-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "gijndgiuer/gutcheck": {
+        "owner": "gijndgiuer",
+        "name": "gutcheck",
+        "branch": "main",
+        "enabled": true
+    },
+    "g761007/figloo": {
+        "owner": "g761007",
+        "name": "figloo",
+        "branch": "main",
+        "enabled": true
+    },
+    "iroha924/sphica": {
+        "owner": "iroha924",
+        "name": "sphica",
+        "branch": "main",
+        "enabled": true
+    },
+    "LupusMalusDeviant/mod-box": {
+        "owner": "LupusMalusDeviant",
+        "name": "mod-box",
+        "branch": "main",
+        "enabled": true
+    },
+    "yihexiang/rulai-distill": {
+        "owner": "yihexiang",
+        "name": "rulai-distill",
+        "branch": "main",
+        "enabled": true
+    },
+    "pagewellai/pagewell": {
+        "owner": "pagewellai",
+        "name": "pagewell",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Ryuketsukami/auto-job-hunt-skill": {
+        "owner": "Ryuketsukami",
+        "name": "auto-job-hunt-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ppchanning/ai4science-observatory": {
+        "owner": "ppchanning",
+        "name": "ai4science-observatory",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tk1475/style-contract": {
+        "owner": "tk1475",
+        "name": "style-contract",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ppchanning/agent-environments-and-evaluation": {
+        "owner": "ppchanning",
+        "name": "agent-environments-and-evaluation",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cairn-agent/plazmi-skill": {
+        "owner": "cairn-agent",
+        "name": "plazmi-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sqliang/agent-extension-registry": {
+        "owner": "sqliang",
+        "name": "agent-extension-registry",
+        "branch": "main",
+        "enabled": true
     }
 }

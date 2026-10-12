@@ -37846,5 +37846,104 @@
     "repoOwner": "aantenore",
     "repoName": "mpsf",
     "repoBranch": "main"
+  },
+  "nanosite-ai/nanoflow": {
+    "name": "nanosite-ai/nanoflow",
+    "description": "Run Claude Code tasks in parallel without losing track: each in its own worktree and ports, followed from ticket to PR to CI to teardown. By nanosite.ai",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nanosite-ai",
+    "repoName": "nanoflow",
+    "repoBranch": "main"
+  },
+  "arminzou/dotbrain": {
+    "name": "arminzou/dotbrain",
+    "description": "Keeps your project's context private and your code repo clean",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arminzou",
+    "repoName": "dotbrain",
+    "repoBranch": "main"
+  },
+  "lorenzh/rabe": {
+    "name": "lorenzh/rabe",
+    "description": "See what Claude Code runs in the background: subagents, Codex jobs, shells, monitors, cron jobs and workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lorenzh",
+    "repoName": "rabe",
+    "repoBranch": "main"
+  },
+  "HoloSoul-Team/bloom-study-guide-mcp": {
+    "name": "HoloSoul-Team/bloom-study-guide-mcp",
+    "description": "Turn AI chats into illustrated study guides \u2014 MCP server + plugin for Claude Code, Codex, ChatGPT, Gemini CLI, Cursor. \u628a\u548c AI \u7684\u5b66\u4e60\u5bf9\u8bdd\u53d8\u6210\u56fe\u6587\u5b66\u4e60\u4e13\u9898 (Bloom)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HoloSoul-Team",
+    "repoName": "bloom-study-guide-mcp",
+    "repoBranch": "main"
+  },
+  "modmyclaude/claude-code-mods": {
+    "name": "modmyclaude/claude-code-mods",
+    "description": "Claude Code mods: curated, tested, and every mod ships with the prompt that built it.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "modmyclaude",
+    "repoName": "claude-code-mods",
+    "repoBranch": "main"
+  },
+  "jysvai/lanes": {
+    "name": "jysvai/lanes",
+    "description": "On-demand Sonnet\u00b7Haiku helper lanes beside your main Claude Code session, from idea to release \u00b7 \uba54\uc778 Claude Code \uc138\uc158 \uc606\uc5d0 \ud544\uc694\ud560 \ub54c\ub9cc \ucf1c\uc9c0\ub294 \ubcf4\uc870 \uc138\uc158 \ud50c\ub7ec\uadf8\uc778 (Windows\u00b7macOS\u00b7Linux \u00b7 Bedrock\u00b7Vertex\u00b7Foundry)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jysvai",
+    "repoName": "lanes",
+    "repoBranch": "main"
+  },
+  "g761007/figloo": {
+    "name": "g761007/figloo",
+    "description": "Chrome extension + local MCP server that lets coding agents like Claude Code and Codex read Figma designs through the web UI with view access: walk layers, inspect properties, take screenshots, export assets. No Figma...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "g761007",
+    "repoName": "figloo",
+    "repoBranch": "main"
+  },
+  "iroha924/sphica": {
+    "name": "iroha924/sphica",
+    "description": "Local memory of past decisions for Claude Code and Codex. Records sessions and decisions in a local SQLite file and recalls them over MCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iroha924",
+    "repoName": "sphica",
+    "repoBranch": "main"
+  },
+  "LupusMalusDeviant/mod-box": {
+    "name": "LupusMalusDeviant/mod-box",
+    "description": "Fourteen Claude Code mods in one plugin, each switchable, with a window to manage, configure and import mods.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LupusMalusDeviant",
+    "repoName": "mod-box",
+    "repoBranch": "main"
+  },
+  "Ryuketsukami/auto-job-hunt-skill": {
+    "name": "Ryuketsukami/auto-job-hunt-skill",
+    "description": "AI job application agent for Claude Code: grill-style onboarding, one tailored ATS-friendly CV per posting, auto-apply through employer forms, email and LinkedIn Easy Apply, proof for every send, and a two-CSV ledger....",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ryuketsukami",
+    "repoName": "auto-job-hunt-skill",
+    "repoBranch": "main"
+  },
+  "tk1475/style-contract": {
+    "name": "tk1475/style-contract",
+    "description": "A type system for vibes. Claude Code skill that makes every AI image obey one STYLE.md.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tk1475",
+    "repoName": "style-contract",
+    "repoBranch": "main"
   }
 }
