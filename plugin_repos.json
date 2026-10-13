@@ -38278,5 +38278,14 @@
     "repoOwner": "alexyc9381",
     "repoName": "night-crew-skill",
     "repoBranch": "main"
+  },
+  "shimo4228/herdr-toolkit": {
+    "name": "herdr-toolkit",
+    "description": "Claude Code plugin with two skills for the Herdr agent multiplexer: spawn-session starts detached Remote Control sessions in Herdr panes, and agent-send sends prompts to agents in Herdr panes with landing confirmation and a completion wait.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shimo4228",
+    "repoName": "herdr-toolkit",
+    "repoBranch": "main"
   }
 }
