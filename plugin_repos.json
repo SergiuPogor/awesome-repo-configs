@@ -38080,5 +38080,122 @@
     "repoOwner": "Kruhlikau",
     "repoName": "subagent-tuner",
     "repoBranch": "main"
+  },
+  "DmitriyYukhanov/agent-plugins": {
+    "name": "DmitriyYukhanov/agent-plugins",
+    "description": "Reusable skills and plugins for AI agents: development workflows, writing, and automation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DmitriyYukhanov",
+    "repoName": "agent-plugins",
+    "repoBranch": "main"
+  },
+  "zzoretich/UniDeX-Agent-Harness": {
+    "name": "zzoretich/UniDeX-Agent-Harness",
+    "description": "UniDeX Agent Harness: a second brain and supervised Chief of Staff for Claude Code and Codex CLI, with persistent memory, recall and session capture, plus proposals you approve before anything changes. Lives in a plai...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zzoretich",
+    "repoName": "UniDeX-Agent-Harness",
+    "repoBranch": "main"
+  },
+  "MorganKryze/GentleTeaM": {
+    "name": "MorganKryze/GentleTeaM",
+    "description": "A light agent-team method for Claude Code: eleven role agents design, specify, build and review your change, while you make three decisions per feature.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MorganKryze",
+    "repoName": "GentleTeaM",
+    "repoBranch": "main"
+  },
+  "Hefrock/agent-skills": {
+    "name": "Hefrock/agent-skills",
+    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can discover and load on demand, usable across Claude, Codex, Gemini CLI, Cursor, and GitHub Copilot.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Hefrock",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "dvwinck/capybara-toolbox": {
+    "name": "dvwinck/capybara-toolbox",
+    "description": "Capybara Toolbox: calm, capable skills and plugins for Claude Code. First plugin: ar-board, a local approve/reject board.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dvwinck",
+    "repoName": "capybara-toolbox",
+    "repoBranch": "base"
+  },
+  "partalemre/MODZ": {
+    "name": "partalemre/MODZ",
+    "description": "17 mods for Claude Code. One panel. See every move Claude makes: agents, files, plans, tests and risky commands, live.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "partalemre",
+    "repoName": "MODZ",
+    "repoBranch": "main"
+  },
+  "partalemre/transceiver": {
+    "name": "partalemre/transceiver",
+    "description": "Team chat inside Claude Code. Your agent asks a teammate's machine for status, diff, tests or a file, at zero tokens. A MODZ mod.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "partalemre",
+    "repoName": "transceiver",
+    "repoBranch": "main"
+  },
+  "nuncaeslupus/claude-arsenal": {
+    "name": "nuncaeslupus/claude-arsenal",
+    "description": "Claude Code plugin marketplace: spec-driven skills, gated task queue, and a skill authoring rubric from research.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nuncaeslupus",
+    "repoName": "claude-arsenal",
+    "repoBranch": "main"
+  },
+  "Mhitaryan-Tigran/claude-plugins": {
+    "name": "Mhitaryan-Tigran/claude-plugins",
+    "description": "Claude Code plugins by Tigran Macintosh",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Mhitaryan-Tigran",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "nerymurillohnd/the-claude-factory": {
+    "name": "nerymurillohnd/the-claude-factory",
+    "description": "Production-grade Claude Code & Cowork plugins: skills, agents, hooks, MCP and LSP servers that automate everyday workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nerymurillohnd",
+    "repoName": "the-claude-factory",
+    "repoBranch": "main"
+  },
+  "lucagioacchini/claude-marketplace": {
+    "name": "lucagioacchini/claude-marketplace",
+    "description": "A personal Claude plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lucagioacchini",
+    "repoName": "claude-marketplace",
+    "repoBranch": "main"
+  },
+  "setkernel/agent-plugins": {
+    "name": "setkernel/agent-plugins",
+    "description": "SetKernel's org-wide setup for AI coding agents: Claude Code plugin, marketplace, shared skills, subagents and rules. No secrets here.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "setkernel",
+    "repoName": "agent-plugins",
+    "repoBranch": "main"
+  },
+  "edu-ide/ugot-skills": {
+    "name": "edu-ide/ugot-skills",
+    "description": "UGOT open skills for Claude Code and Codex: agent mindset, reader-first writing, engineering habits, job applications",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "edu-ide",
+    "repoName": "ugot-skills",
+    "repoBranch": "main"
   }
 }

@@ -6134,5 +6134,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "nerymurillohnd/the-claude-factory": {
+    "owner": "nerymurillohnd",
+    "name": "the-claude-factory",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

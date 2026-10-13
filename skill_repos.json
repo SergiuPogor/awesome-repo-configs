@@ -45858,5 +45858,113 @@
         "name": "qsm-marketplace",
         "branch": "main",
         "enabled": true
+    },
+    "thalesholleben/copy-thief": {
+        "owner": "thalesholleben",
+        "name": "copy-thief",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "DmitriyYukhanov/agent-plugins": {
+        "owner": "DmitriyYukhanov",
+        "name": "agent-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "zzoretich/UniDeX-Agent-Harness": {
+        "owner": "zzoretich",
+        "name": "UniDeX-Agent-Harness",
+        "branch": "main",
+        "enabled": true
+    },
+    "AirsupHQ/machine-skill": {
+        "owner": "AirsupHQ",
+        "name": "machine-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "MorganKryze/GentleTeaM": {
+        "owner": "MorganKryze",
+        "name": "GentleTeaM",
+        "branch": "main",
+        "enabled": true
+    },
+    "qixian771-spec/vps-node-rebuild-3xui": {
+        "owner": "qixian771-spec",
+        "name": "vps-node-rebuild-3xui",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "nuncaeslupus/literary-critic": {
+        "owner": "nuncaeslupus",
+        "name": "literary-critic",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Hefrock/agent-skills": {
+        "owner": "Hefrock",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dvwinck/capybara-toolbox": {
+        "owner": "dvwinck",
+        "name": "capybara-toolbox",
+        "branch": "base",
+        "enabled": true
+    },
+    "partalemre/MODZ": {
+        "owner": "partalemre",
+        "name": "MODZ",
+        "branch": "main",
+        "enabled": true
+    },
+    "thomasguillot/fettlr": {
+        "owner": "thomasguillot",
+        "name": "fettlr",
+        "branch": "main",
+        "enabled": true
+    },
+    "nuncaeslupus/claude-arsenal": {
+        "owner": "nuncaeslupus",
+        "name": "claude-arsenal",
+        "branch": "main",
+        "enabled": true
+    },
+    "Mhitaryan-Tigran/claude-plugins": {
+        "owner": "Mhitaryan-Tigran",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "nerymurillohnd/the-claude-factory": {
+        "owner": "nerymurillohnd",
+        "name": "the-claude-factory",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "lucagioacchini/claude-marketplace": {
+        "owner": "lucagioacchini",
+        "name": "claude-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "setkernel/agent-plugins": {
+        "owner": "setkernel",
+        "name": "agent-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "edu-ide/ugot-skills": {
+        "owner": "edu-ide",
+        "name": "ugot-skills",
+        "branch": "main",
+        "enabled": true
     }
 }
