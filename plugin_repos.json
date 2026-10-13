@@ -38197,5 +38197,86 @@
     "repoOwner": "edu-ide",
     "repoName": "ugot-skills",
     "repoBranch": "main"
+  },
+  "alexyc9381/court-skill": {
+    "name": "court-skill",
+    "description": "Puts your idea on trial: a prosecutor Claude, a defense Claude, a jury of 12 Claudes who vote on their own, and a judge who reads the verdict and what would flip it.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alexyc9381",
+    "repoName": "court-skill",
+    "repoBranch": "main"
+  },
+  "alexyc9381/shark-skill": {
+    "name": "shark-skill",
+    "description": "Pitch your idea to a Shark Tank-style panel of 5 Claude sharks who only want to say no: they grill it, a founder Claude answers, and each one goes IN or OUT with a practice offer.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alexyc9381",
+    "repoName": "shark-skill",
+    "repoBranch": "main"
+  },
+  "alexyc9381/hiring-panel-skill": {
+    "name": "hiring-panel-skill",
+    "description": "Seven Claudes try to reject your resume, then it rebuilds it with every mistake fixed.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alexyc9381",
+    "repoName": "hiring-panel-skill",
+    "repoBranch": "main"
+  },
+  "alexyc9381/agency-skill": {
+    "name": "agency-skill",
+    "description": "An AI automation agency inside Claude Code: outbound, sales calls, proposals and builds, support, and a night shift.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alexyc9381",
+    "repoName": "agency-skill",
+    "repoBranch": "main"
+  },
+  "alexyc9381/linkedin-roast-skill": {
+    "name": "linkedin-roast-skill",
+    "description": "Five Claudes roast your LinkedIn profile, each one alone, then it fixes it: a new headline, an About with keywords, every job rewritten, a banner file and a headshot prompt.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alexyc9381",
+    "repoName": "linkedin-roast-skill",
+    "repoBranch": "main"
+  },
+  "alexyc9381/mentor-skill": {
+    "name": "mentor-skill",
+    "description": "Makes you learn while Claude writes the code: three questions in your own words before every feature, a hook that blocks code until you answer, and an explain-back at the end.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alexyc9381",
+    "repoName": "mentor-skill",
+    "repoBranch": "main"
+  },
+  "alexyc9381/learn-skill": {
+    "name": "learn-skill",
+    "description": "Turns every correction you give Claude into a rule in LESSONS.md, which CLAUDE.md imports so every session starts with it. A hook logs your corrections; each night an investigator Claude works out what went wrong, why and what to do instead, and writes it back as one short rule.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alexyc9381",
+    "repoName": "learn-skill",
+    "repoBranch": "main"
+  },
+  "alexyc9381/launch-skill": {
+    "name": "launch-skill",
+    "description": "Polls 8 Claude flight controllers before your app goes live (tests, security, database, speed, cost, users, recovery, rules). Each answers GO or NO-GO; one NO-GO holds the launch, and a flight director writes the fixes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alexyc9381",
+    "repoName": "launch-skill",
+    "repoBranch": "main"
+  },
+  "alexyc9381/night-crew-skill": {
+    "name": "night-crew-skill",
+    "description": "Three Claude Code routines that work on your app's repo every night: a builder ships the next backlog item, a scout finds customers and drafts posts, a tracker checks what works. Pull requests only.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alexyc9381",
+    "repoName": "night-crew-skill",
+    "repoBranch": "main"
   }
 }

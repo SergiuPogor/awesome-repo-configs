@@ -45966,5 +45966,68 @@
         "name": "ugot-skills",
         "branch": "main",
         "enabled": true
+    },
+    "alexyc9381/court-skill": {
+        "owner": "alexyc9381",
+        "name": "court-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alexyc9381/shark-skill": {
+        "owner": "alexyc9381",
+        "name": "shark-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alexyc9381/hiring-panel-skill": {
+        "owner": "alexyc9381",
+        "name": "hiring-panel-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alexyc9381/agency-skill": {
+        "owner": "alexyc9381",
+        "name": "agency-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alexyc9381/linkedin-roast-skill": {
+        "owner": "alexyc9381",
+        "name": "linkedin-roast-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alexyc9381/mentor-skill": {
+        "owner": "alexyc9381",
+        "name": "mentor-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alexyc9381/learn-skill": {
+        "owner": "alexyc9381",
+        "name": "learn-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alexyc9381/launch-skill": {
+        "owner": "alexyc9381",
+        "name": "launch-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alexyc9381/night-crew-skill": {
+        "owner": "alexyc9381",
+        "name": "night-crew-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
