@@ -46150,5 +46150,126 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "talsiach/take-one": {
+        "owner": "talsiach",
+        "name": "take-one",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Garinmckayl/anima": {
+        "owner": "Garinmckayl",
+        "name": "anima",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "theonly1me/shadowclone": {
+        "owner": "theonly1me",
+        "name": "shadowclone",
+        "branch": "main",
+        "enabled": true
+    },
+    "skeptrunedev/call4me": {
+        "owner": "skeptrunedev",
+        "name": "call4me",
+        "branch": "main",
+        "enabled": true
+    },
+    "rajdeepratan/SlashForge": {
+        "owner": "rajdeepratan",
+        "name": "SlashForge",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Siin0pe/seo-god-mode": {
+        "owner": "Siin0pe",
+        "name": "seo-god-mode",
+        "branch": "main",
+        "enabled": true
+    },
+    "heyzainali/half-fixed": {
+        "owner": "heyzainali",
+        "name": "half-fixed",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "avestura/whiteboard-defense": {
+        "owner": "avestura",
+        "name": "whiteboard-defense",
+        "branch": "main",
+        "enabled": true
+    },
+    "meetjunaid/PaperAnimation": {
+        "owner": "meetjunaid",
+        "name": "PaperAnimation",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ajarallah/sard": {
+        "owner": "Ajarallah",
+        "name": "sard",
+        "branch": "main",
+        "enabled": true
+    },
+    "jorranMLGN/phone-drop": {
+        "owner": "jorranMLGN",
+        "name": "phone-drop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nachum10/cloudflare-tunnel-routes": {
+        "owner": "nachum10",
+        "name": "cloudflare-tunnel-routes",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "emdashsmoker/biz-docgen-agent-skills": {
+        "owner": "emdashsmoker",
+        "name": "biz-docgen-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "iammirrr/ungenerated": {
+        "owner": "iammirrr",
+        "name": "ungenerated",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "emdashsmoker/biz-agent-skills": {
+        "owner": "emdashsmoker",
+        "name": "biz-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "emdashsmoker/art-agent-skills": {
+        "owner": "emdashsmoker",
+        "name": "art-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "emdashsmoker/music-agent-skills": {
+        "owner": "emdashsmoker",
+        "name": "music-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "qaemu/paradigma-skill": {
+        "owner": "qaemu",
+        "name": "paradigma-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

@@ -38386,5 +38386,104 @@
     "repoOwner": "AndreyBegma",
     "repoName": "claude-code-plugin",
     "repoBranch": "main"
+  },
+  "theonly1me/shadowclone": {
+    "name": "theonly1me/shadowclone",
+    "description": "Your engineering taste, in every coding agent. Shadowclone learns your rules and delivers them as skills to Claude Code, Codex, Cursor, Pi, and Antigravity, and as a GitHub cloud bot.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "theonly1me",
+    "repoName": "shadowclone",
+    "repoBranch": "main"
+  },
+  "Siin0pe/seo-god-mode": {
+    "name": "Siin0pe/seo-god-mode",
+    "description": "Your SEO team inside Claude Code. Real Search Console + GA4 + PageSpeed data in, 3 ranked actions out. Traffic-drop diagnosis, quick wins, indexing, page gates, GEO. One-command setup, zero invented numbers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Siin0pe",
+    "repoName": "seo-god-mode",
+    "repoBranch": "main"
+  },
+  "heyzainali/half-fixed": {
+    "name": "heyzainali/half-fixed",
+    "description": "Your bug was fixed. Just not everywhere. Finds fixes that reached some sibling implementations but not the others, as a CLI and Agent Skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "heyzainali",
+    "repoName": "half-fixed",
+    "repoBranch": "main"
+  },
+  "avestura/whiteboard-defense": {
+    "name": "avestura/whiteboard-defense",
+    "description": "Know what your AI agent built, and where it just used its defaults. A skill + plugin for Claude Code, Codex and OpenCode that briefs you on decisions, provenance, and failure modes so you can pass the whiteboard defense.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "avestura",
+    "repoName": "whiteboard-defense",
+    "repoBranch": "main"
+  },
+  "meetjunaid/PaperAnimation": {
+    "name": "meetjunaid/PaperAnimation",
+    "description": "Turn any word into a 3-second newspaper highlight hook for Reels and YouTube. Works in Claude, ChatGPT, Claude Code & more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "meetjunaid",
+    "repoName": "PaperAnimation",
+    "repoBranch": "main"
+  },
+  "Ajarallah/sard": {
+    "name": "Ajarallah/sard",
+    "description": "\u0633\u064e\u0631\u0652\u062f: narrative step-by-step explanations for Claude \u2014 texts, slides with handwriting, roots, books, articles, and decks",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ajarallah",
+    "repoName": "sard",
+    "repoBranch": "main"
+  },
+  "kuehn-lars/cc-graph": {
+    "name": "kuehn-lars/cc-graph",
+    "description": "cc-graph: a live graph on what Claude Code knows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kuehn-lars",
+    "repoName": "cc-graph",
+    "repoBranch": "main"
+  },
+  "jorranMLGN/phone-drop": {
+    "name": "jorranMLGN/phone-drop",
+    "description": "AirDrop for AI agents & your terminal: move files between your computer and your phone with one QR scan. npx phone-drop \u00b7 Claude Code plugin. No app, no cloud, no size limit.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jorranMLGN",
+    "repoName": "phone-drop",
+    "repoBranch": "main"
+  },
+  "ejklock/claude-code-mode": {
+    "name": "ejklock/claude-code-mode",
+    "description": "Code mode for Claude Code: a bridge to Pi's codemode. The model writes one script that calls the session's tools; only the output returns.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ejklock",
+    "repoName": "claude-code-mode",
+    "repoBranch": "main"
+  },
+  "iammirrr/ungenerated": {
+    "name": "iammirrr/ungenerated",
+    "description": "Skills for designing mobile apps with Claude that don't look generated: a live design board, motion, onboarding, paywall and cancel-flow patterns, and a no-slop checklist.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iammirrr",
+    "repoName": "ungenerated",
+    "repoBranch": "main"
+  },
+  "qaemu/paradigma-skill": {
+    "name": "qaemu/paradigma-skill",
+    "description": "Agent skill that maps how a field's constraints changed over two decades, to find where a new product, startup or line of research just became possible. Working in claude code and cowork",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "qaemu",
+    "repoName": "paradigma-skill",
+    "repoBranch": "main"
   }
 }
