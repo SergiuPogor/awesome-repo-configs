@@ -46029,5 +46029,126 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "yanhua1010/self-media-content-workflow": {
+        "owner": "yanhua1010",
+        "name": "self-media-content-workflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "qa-aman/claude-skills": {
+        "owner": "qa-aman",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alexander-danilenko/cortex-claude-code-plugins": {
+        "owner": "alexander-danilenko",
+        "name": "cortex-claude-code-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "rodrigomanhaes/flowyeah": {
+        "owner": "rodrigomanhaes",
+        "name": "flowyeah",
+        "branch": "main",
+        "enabled": true
+    },
+    "Makiya1202/awesome-codex-computer-use": {
+        "owner": "Makiya1202",
+        "name": "awesome-codex-computer-use",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "EvanBatten/firstmate-for-windows": {
+        "owner": "EvanBatten",
+        "name": "firstmate-for-windows",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "laymom/synthetic-focus-group": {
+        "owner": "laymom",
+        "name": "synthetic-focus-group",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "laymom/consulting-ux-strategy": {
+        "owner": "laymom",
+        "name": "consulting-ux-strategy",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "glassflow/rius-coding-agents": {
+        "owner": "glassflow",
+        "name": "rius-coding-agents",
+        "branch": "main",
+        "enabled": true
+    },
+    "Antarsoft/morphness": {
+        "owner": "Antarsoft",
+        "name": "morphness",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yuntaengtaeng/snitch": {
+        "owner": "yuntaengtaeng",
+        "name": "snitch",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Gleaming0427/repoweek": {
+        "owner": "Gleaming0427",
+        "name": "repoweek",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "asfakulsiam/asfakulsiam-motomation-design": {
+        "owner": "asfakulsiam",
+        "name": "asfakulsiam-motomation-design",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rave-altfred/claude-backlog-skill": {
+        "owner": "rave-altfred",
+        "name": "claude-backlog-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "qingmingyiyang/Incremind": {
+        "owner": "qingmingyiyang",
+        "name": "Incremind",
+        "branch": "main",
+        "enabled": true
+    },
+    "c0le0ni/skills": {
+        "owner": "c0le0ni",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TsukiNi22/ai-utils": {
+        "owner": "TsukiNi22",
+        "name": "ai-utils",
+        "branch": "main",
+        "enabled": true
+    },
+    "AndreyBegma/claude-code-plugin": {
+        "owner": "AndreyBegma",
+        "name": "claude-code-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
