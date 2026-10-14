@@ -6162,5 +6162,26 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "jeremylongshore/dolt-mcp-vcs-plugin": {
+    "owner": "jeremylongshore",
+    "name": "dolt-mcp-vcs-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "wntic/pyhouse": {
+    "owner": "wntic",
+    "name": "pyhouse",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "jeremylongshore/omarchy-ship": {
+    "owner": "jeremylongshore",
+    "name": "omarchy-ship",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

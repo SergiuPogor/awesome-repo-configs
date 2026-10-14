@@ -38485,5 +38485,113 @@
     "repoOwner": "qaemu",
     "repoName": "paradigma-skill",
     "repoBranch": "main"
+  },
+  "Samsung/tizen-agent-skills": {
+    "name": "Samsung/tizen-agent-skills",
+    "description": "Tizen development skills & plugins for AI coding agents: install the Tizen SDK, create, build, debug and test Tizen Web, Native, .NET, RPK and RPM packages and Samsung TV apps",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Samsung",
+    "repoName": "tizen-agent-skills",
+    "repoBranch": "main"
+  },
+  "GangJaeYu/harness_loop_full_korean": {
+    "name": "GangJaeYu/harness_loop_full_korean",
+    "description": "Claude Code \u00b7 Codex \ud55c\uae00 \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \ud50c\ub7ec\uadf8\uc778 \u2014 \uc544\uc774\ub514\uc5b4 \u2192 PRD \u2192 \uc124\uacc4 \u2192 \ud0dc\uc2a4\ud06c \u2192 \uac80\uc99d \ud558\ub124\uc2a4 \u2192 \uc790\uc728 \uac1c\ubc1c \ub8e8\ud504 / Korean agent skills: idea to autonomous dev loop",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GangJaeYu",
+    "repoName": "harness_loop_full_korean",
+    "repoBranch": "main"
+  },
+  "jeremylongshore/dolt-mcp-vcs-plugin": {
+    "name": "jeremylongshore/dolt-mcp-vcs-plugin",
+    "description": "One Claude Code plugin for every make and model of Dolt: auto-detects the Dolt flavor/mode (repo \u00b7 live server \u00b7 embedded \u00b7 Doltgres \u00b7 DoltLite) and does version-control work via dolthub/dolt-mcp, with a verb-class mu...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jeremylongshore",
+    "repoName": "dolt-mcp-vcs-plugin",
+    "repoBranch": "main"
+  },
+  "hwajongpark/fact-drift": {
+    "name": "hwajongpark/fact-drift",
+    "description": "A Claude Code skill that watches the source pages behind the facts you cite (prices, versions, limits, rules, deadlines) and updates every file that has gone out of date, once you approve.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hwajongpark",
+    "repoName": "fact-drift",
+    "repoBranch": "main"
+  },
+  "codezeroexe/levels": {
+    "name": "codezeroexe/levels",
+    "description": "Claude Code skills that rate parts of a project on a 1 to 5 scale, propose options, and delegate the chosen work to cheaper models behind a confirmation gate.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "codezeroexe",
+    "repoName": "levels",
+    "repoBranch": "main"
+  },
+  "captkernel/Skills_Curator": {
+    "name": "captkernel/Skills_Curator",
+    "description": "Decide once. Re-decide never. A Claude Code skill that evaluates skills before installing and persists every decision.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "captkernel",
+    "repoName": "Skills_Curator",
+    "repoBranch": "main"
+  },
+  "Ying-Kai-Liao/flow": {
+    "name": "Ying-Kai-Liao/flow",
+    "description": "Claude Code plugin that runs a batch of software tasks in parallel: managers plan, workers build in their own git worktrees and open PRs, one reviewer merges, checks, releases and deploys. You only make the decisions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ying-Kai-Liao",
+    "repoName": "flow",
+    "repoBranch": "main"
+  },
+  "wntic/pyhouse": {
+    "name": "wntic/pyhouse",
+    "description": "Claude Code skills that make AI agents write well-structured Python services and review code against the same rules.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wntic",
+    "repoName": "pyhouse",
+    "repoBranch": "main"
+  },
+  "HiMyNameIsDavidKim/humanize-claude-code-skill": {
+    "name": "HiMyNameIsDavidKim/humanize-claude-code-skill",
+    "description": "\uc9c0\ub09c Claude Code \uc138\uc158 \uc751\ub2f5\uc5d0\uc11c \ud55c\uad6d\uc5b4 AI \ubb38\uccb4\ub97c \ucc3e\uc544 \uc138\uc158\ub9c8\ub2e4 \uac00\uc774\ub4dc\ub85c \uc8fc\uc785 \u00b7 \uc8fc 1\ud68c \uc790\ub3d9 \uc7ac\ubd84\uc11d \u00b7 im-not-ai \ubd84\ub958 \uccb4\uacc4 \u00b7 macOS & Windows \u00b7 MIT",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HiMyNameIsDavidKim",
+    "repoName": "humanize-claude-code-skill",
+    "repoBranch": "main"
+  },
+  "jeremylongshore/omarchy-ship": {
+    "name": "jeremylongshore/omarchy-ship",
+    "description": "A pre-submission lane for Omarchy plugins that refuses to report success for anything it did not check. Claude Code plugin: the /omarchy-ship skill and its subagents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jeremylongshore",
+    "repoName": "omarchy-ship",
+    "repoBranch": "main"
+  },
+  "QuocTang/shipfast-mcp": {
+    "name": "QuocTang/shipfast-mcp",
+    "description": "MCP server mang quy tr\u00ecnh l\u00e0m vi\u1ec7c theo wave gi\u1eefa PO v\u00e0 AI v\u00e0o m\u1ecdi d\u1ef1 \u00e1n: Orchestrator \u0111i\u1ec1u ph\u1ed1i, b\u1ed9 ph\u1eadn l\u1eadp theo d\u1ef1 \u00e1n, decision log, quality gate, n\u00e2ng c\u1ea5p b\u1eb1ng three-way merge.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "QuocTang",
+    "repoName": "shipfast-mcp",
+    "repoBranch": "main"
+  },
+  "HT0710/claudzilla": {
+    "name": "HT0710/claudzilla",
+    "description": "Claude Code, tamed: terse answers, small diffs, verified work, guarded git.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HT0710",
+    "repoName": "claudzilla",
+    "repoBranch": "main"
   }
 }

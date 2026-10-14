@@ -46271,5 +46271,111 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "dantaspaulo/claquete": {
+        "owner": "dantaspaulo",
+        "name": "claquete",
+        "branch": "main",
+        "enabled": true
+    },
+    "Samsung/tizen-agent-skills": {
+        "owner": "Samsung",
+        "name": "tizen-agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "GangJaeYu/harness_loop_full_korean": {
+        "owner": "GangJaeYu",
+        "name": "harness_loop_full_korean",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jeremylongshore/dolt-mcp-vcs-plugin": {
+        "owner": "jeremylongshore",
+        "name": "dolt-mcp-vcs-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hwajongpark/fact-drift": {
+        "owner": "hwajongpark",
+        "name": "fact-drift",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "codezeroexe/levels": {
+        "owner": "codezeroexe",
+        "name": "levels",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "captkernel/Skills_Curator": {
+        "owner": "captkernel",
+        "name": "Skills_Curator",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ying-Kai-Liao/flow": {
+        "owner": "Ying-Kai-Liao",
+        "name": "flow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "liyupi/memecub": {
+        "owner": "liyupi",
+        "name": "memecub",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jrodrigopuca/local-agents": {
+        "owner": "jrodrigopuca",
+        "name": "local-agents",
+        "branch": "main",
+        "enabled": true
+    },
+    "wntic/pyhouse": {
+        "owner": "wntic",
+        "name": "pyhouse",
+        "branch": "main",
+        "enabled": true
+    },
+    "VioletScar-Hui/claude-account-guard": {
+        "owner": "VioletScar-Hui",
+        "name": "claude-account-guard",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "HiMyNameIsDavidKim/humanize-claude-code-skill": {
+        "owner": "HiMyNameIsDavidKim",
+        "name": "humanize-claude-code-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jeremylongshore/omarchy-ship": {
+        "owner": "jeremylongshore",
+        "name": "omarchy-ship",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "QuocTang/shipfast-mcp": {
+        "owner": "QuocTang",
+        "name": "shipfast-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "HT0710/claudzilla": {
+        "owner": "HT0710",
+        "name": "claudzilla",
+        "branch": "main",
+        "enabled": true
     }
 }
