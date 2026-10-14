@@ -46377,5 +46377,96 @@
         "name": "claudzilla",
         "branch": "main",
         "enabled": true
+    },
+    "firecrawl/firecrawl-claude-plugin": {
+        "owner": "firecrawl",
+        "name": "firecrawl-claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "matteotitta/repo-structure-in-house": {
+        "owner": "matteotitta",
+        "name": "repo-structure-in-house",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "withqwerty/nutmeg": {
+        "owner": "withqwerty",
+        "name": "nutmeg",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "398894496-arch/KRouter": {
+        "owner": "398894496-arch",
+        "name": "KRouter",
+        "branch": "main",
+        "enabled": true
+    },
+    "daftAI2026/daftAI-skills": {
+        "owner": "daftAI2026",
+        "name": "daftAI-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "PaodingAI/skills": {
+        "owner": "PaodingAI",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "yoelf22/electrum": {
+        "owner": "yoelf22",
+        "name": "electrum",
+        "branch": "master",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "galleonlabs/crypto-defi-skills": {
+        "owner": "galleonlabs",
+        "name": "crypto-defi-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "ProjAnvil/MindForge": {
+        "owner": "ProjAnvil",
+        "name": "MindForge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "denniscalazans/denniscalazans-plugins": {
+        "owner": "denniscalazans",
+        "name": "denniscalazans-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "xsyetopz/claudetto": {
+        "owner": "xsyetopz",
+        "name": "claudetto",
+        "branch": "main",
+        "enabled": true
+    },
+    "AI-Marketing-OS-LTD/cmo-so-skills": {
+        "owner": "AI-Marketing-OS-LTD",
+        "name": "cmo-so-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "azamkhanuk/context-central": {
+        "owner": "azamkhanuk",
+        "name": "context-central",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "andreibesleaga/agentic-system-core": {
+        "owner": "andreibesleaga",
+        "name": "agentic-system-core",
+        "branch": "main",
+        "enabled": true
     }
 }

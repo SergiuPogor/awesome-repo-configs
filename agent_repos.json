@@ -6183,5 +6183,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "withqwerty/nutmeg": {
+    "owner": "withqwerty",
+    "name": "nutmeg",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ProjAnvil/MindForge": {
+    "owner": "ProjAnvil",
+    "name": "MindForge",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "xsyetopz/claudetto": {
+    "owner": "xsyetopz",
+    "name": "claudetto",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "azamkhanuk/context-central": {
+    "owner": "azamkhanuk",
+    "name": "context-central",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

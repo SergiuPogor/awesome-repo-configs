@@ -38602,5 +38602,113 @@
     "repoOwner": "HT0710",
     "repoName": "claudzilla",
     "repoBranch": "main"
+  },
+  "firecrawl/firecrawl-claude-plugin": {
+    "name": "firecrawl/firecrawl-claude-plugin",
+    "description": "Firecrawl plugin for Claude Code: web search, scraping, crawling and browser interaction. Firecrawl is the most complete web data API for AI agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "firecrawl",
+    "repoName": "firecrawl-claude-plugin",
+    "repoBranch": "main"
+  },
+  "withqwerty/nutmeg": {
+    "name": "withqwerty/nutmeg",
+    "description": "Football data analytics toolkit for Claude Code. Covers Opta, StatsBomb, Wyscout, SportMonks, and free sources.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "withqwerty",
+    "repoName": "nutmeg",
+    "repoBranch": "main"
+  },
+  "398894496-arch/KRouter": {
+    "name": "398894496-arch/KRouter",
+    "description": "Your coding agents remember what you decided \u2014 and what you changed. Plain-Markdown memory in Obsidian, shared by Claude Code, Codex and Cursor over MCP. Every answer cites its page; when the vault does not know, it s...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "398894496-arch",
+    "repoName": "KRouter",
+    "repoBranch": "main"
+  },
+  "artemnovichkov/xcode-mods": {
+    "name": "artemnovichkov/xcode-mods",
+    "description": "Xcode's build, tests, console and SwiftUI previews inside Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "artemnovichkov",
+    "repoName": "xcode-mods",
+    "repoBranch": "main"
+  },
+  "daftAI2026/daftAI-skills": {
+    "name": "daftAI2026/daftAI-skills",
+    "description": "daftAI2026/daftAI-skills \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "daftAI2026",
+    "repoName": "daftAI-skills",
+    "repoBranch": "main"
+  },
+  "marcreichel/laya-router": {
+    "name": "marcreichel/laya-router",
+    "description": "Auto-route each Claude Code session to Haiku, Sonnet, Opus or Fable from its first prompt. Classified locally, zero tokens.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "marcreichel",
+    "repoName": "laya-router",
+    "repoBranch": "main"
+  },
+  "galleonlabs/crypto-defi-skills": {
+    "name": "galleonlabs/crypto-defi-skills",
+    "description": "Open-source DeFi skills for Claude Code, Codex, Cursor, Gemini CLI, Hermes and OpenClaw: 49 skills in 17 independent packs for lending, liquidity, yield, routing and research.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "galleonlabs",
+    "repoName": "crypto-defi-skills",
+    "repoBranch": "main"
+  },
+  "denniscalazans/denniscalazans-plugins": {
+    "name": "denniscalazans/denniscalazans-plugins",
+    "description": "Claude Code plugin marketplace \u2014 skills and agents for thinking workflows, code quality, browser automation, adversarial implementation pipelines, and service integrations",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "denniscalazans",
+    "repoName": "denniscalazans-plugins",
+    "repoBranch": "main"
+  },
+  "xsyetopz/claudetto": {
+    "name": "xsyetopz/claudetto",
+    "description": "A very opinionated Claude Code plugin designed by a Rustacean obsessed with harness engineering",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "xsyetopz",
+    "repoName": "claudetto",
+    "repoBranch": "main"
+  },
+  "AI-Marketing-OS-LTD/cmo-so-skills": {
+    "name": "AI-Marketing-OS-LTD/cmo-so-skills",
+    "description": "Skills for running your marketing with CMO.so and Maggie from Claude Code and other agents, built on the CMO.so MCP server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AI-Marketing-OS-LTD",
+    "repoName": "cmo-so-skills",
+    "repoBranch": "main"
+  },
+  "azamkhanuk/context-central": {
+    "name": "azamkhanuk/context-central",
+    "description": "One central place for all the context behind your work in Claude Code: a map that routes each task to the right notes and keeps work in flight in small state files.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "azamkhanuk",
+    "repoName": "context-central",
+    "repoBranch": "main"
+  },
+  "andreibesleaga/agentic-system-core": {
+    "name": "andreibesleaga/agentic-system-core",
+    "description": "AgenticSystemCore: an open specification and reference engine that publishes knowledge Bundles for people and agents \u2014 RFC 9264 discovery, a JSON-LD graph, llms.txt and MCP tools",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "andreibesleaga",
+    "repoName": "agentic-system-core",
+    "repoBranch": "main"
   }
 }
