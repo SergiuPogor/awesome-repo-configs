@@ -1,4 +1,13 @@
 {
+  "edtrackai/supabase-stripe-checks": {
+    "name": "supabase-stripe-checks",
+    "description": "Two free, read-only checks for Next.js + Supabase + Stripe apps: rls-check finds row-level security gaps in Supabase migrations, stripe-webhook-check finds webhook handlers that skip signature verification. Zero dependencies, MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "edtrackai",
+    "repoName": "supabase-stripe-checks",
+    "repoBranch": "main"
+  },
   "WarmerlyApp/claude-plugin": {
     "name": "warmerly",
     "description": "Warmerly's MCP server plus four workflow skills for cold email campaigns, deliverability checks, reply triage and transactional email setup.",
