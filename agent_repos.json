@@ -6211,5 +6211,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "kennedykjj/shipfloor": {
+    "owner": "kennedykjj",
+    "name": "shipfloor",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "nourhelmi/crew": {
+    "owner": "nourhelmi",
+    "name": "crew",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Dani777rtg/shipwright": {
+    "owner": "Dani777rtg",
+    "name": "shipwright",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

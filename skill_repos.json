@@ -46468,5 +46468,111 @@
         "name": "agentic-system-core",
         "branch": "main",
         "enabled": true
+    },
+    "AbubakrChan/product-launch-motion": {
+        "owner": "AbubakrChan",
+        "name": "product-launch-motion",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jeecgboot/skills": {
+        "owner": "jeecgboot",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "karero/croftweaver": {
+        "owner": "karero",
+        "name": "croftweaver",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dharunashokkumar/api.dharun.dev": {
+        "owner": "dharunashokkumar",
+        "name": "api.dharun.dev",
+        "branch": "main",
+        "enabled": true
+    },
+    "Aries-Spring/motion-reel": {
+        "owner": "Aries-Spring",
+        "name": "motion-reel",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hypergraphdev/abs-skills": {
+        "owner": "hypergraphdev",
+        "name": "abs-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mattbrailsford/umbraco-devkit": {
+        "owner": "mattbrailsford",
+        "name": "umbraco-devkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "kennedykjj/shipfloor": {
+        "owner": "kennedykjj",
+        "name": "shipfloor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yybd/app-factory": {
+        "owner": "yybd",
+        "name": "app-factory",
+        "branch": "main",
+        "enabled": true
+    },
+    "metafeng/fangxin-image-gen": {
+        "owner": "metafeng",
+        "name": "fangxin-image-gen",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Ottili-ONE/skills": {
+        "owner": "Ottili-ONE",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rashee1997/ui-redesign": {
+        "owner": "rashee1997",
+        "name": "ui-redesign",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jovan-babovic/ad-localization": {
+        "owner": "jovan-babovic",
+        "name": "ad-localization",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "hadi-yousef/pixel-lichtspiele": {
+        "owner": "hadi-yousef",
+        "name": "pixel-lichtspiele",
+        "branch": "main",
+        "enabled": true
+    },
+    "nourhelmi/crew": {
+        "owner": "nourhelmi",
+        "name": "crew",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Dani777rtg/shipwright": {
+        "owner": "Dani777rtg",
+        "name": "shipwright",
+        "branch": "main",
+        "enabled": true
     }
 }

@@ -38710,5 +38710,113 @@
     "repoOwner": "andreibesleaga",
     "repoName": "agentic-system-core",
     "repoBranch": "main"
+  },
+  "Tapetide-hq/nse-bse-indian-stock-market-data-mcp": {
+    "name": "Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
+    "description": "Indian stock market MCP server for NSE & BSE \u2014 55 tools across all 8,200+ stocks: live quotes, financials, technicals, 326-ratio screener, FII/DII flows, option chains & IV, filings, IPOs & portfolio. Remote (OAuth) o...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Tapetide-hq",
+    "repoName": "nse-bse-indian-stock-market-data-mcp",
+    "repoBranch": "main"
+  },
+  "karero/croftweaver": {
+    "name": "karero/croftweaver",
+    "description": "Croftweaver: open-source AI website builder skills for Claude Code, Codex and Antigravity. From a short brief to a fast, accessible, SEO-ready Astro site. By GenAI Wednesday (genai-wednesday.de/builder-lab).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "karero",
+    "repoName": "croftweaver",
+    "repoBranch": "main"
+  },
+  "dharunashokkumar/api.dharun.dev": {
+    "name": "dharunashokkumar/api.dharun.dev",
+    "description": "Free REST and MCP APIs for apps built in India: pincode and IFSC lookup, GSTIN and PAN checks, holidays and working days, UPI QR, number to words in lakh and crore. No key, no sign-up, AGPL.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dharunashokkumar",
+    "repoName": "api.dharun.dev",
+    "repoBranch": "main"
+  },
+  "Aries-Spring/motion-reel": {
+    "name": "Aries-Spring/motion-reel",
+    "description": "Claude Code plugin: showreel-grade motion videos rendered from code, with synthesized score, SFX and lip-synced voice-over",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Aries-Spring",
+    "repoName": "motion-reel",
+    "repoBranch": "main"
+  },
+  "hypergraphdev/abs-skills": {
+    "name": "hypergraphdev/abs-skills",
+    "description": "ABS \u00b7 AI Business System skill for AI agents: lean and operational-excellence methods with sources, scheduled plans and operations diagnosis",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hypergraphdev",
+    "repoName": "abs-skills",
+    "repoBranch": "main"
+  },
+  "mattbrailsford/umbraco-devkit": {
+    "name": "mattbrailsford/umbraco-devkit",
+    "description": "Claude Code plugin for Umbraco package and backoffice extension development: a feature pipeline, a builder/reviewer gate, and stack skills for C#/.NET, EF Core, Lit + UUI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mattbrailsford",
+    "repoName": "umbraco-devkit",
+    "repoBranch": "main"
+  },
+  "kennedykjj/shipfloor": {
+    "name": "kennedykjj/shipfloor",
+    "description": "Shipfloor - a software factory.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kennedykjj",
+    "repoName": "shipfloor",
+    "repoBranch": "main"
+  },
+  "yybd/app-factory": {
+    "name": "yybd/app-factory",
+    "description": "The skills that build, describe and ship a mobile app to the App Store and Google Play \u2014 a Claude Code plugin marketplace. 40 skills in seven opt-in tracks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yybd",
+    "repoName": "app-factory",
+    "repoBranch": "main"
+  },
+  "oobg/claude-code-mods": {
+    "name": "oobg/claude-code-mods",
+    "description": "Claude Code \uc785\ub825\ucc3d \uc8fc\ubcc0\uc744 \uc190\ubcf4\ub294 \ubaa8\ub4dc \ubaa8\uc74c. $\ubc88\ud638\ub85c \ub123\ub294 \ub2e4\uc74c \uc81c\uc548\uacfc \ud504\ub9ac\uc14b, \ub450 \uc904 \ub300\uc2dc\ubcf4\ub4dc, Finder \ud30c\uc77c\uc744 @\uacbd\ub85c\ub85c \ubd99\uc5ec\ub123\uae30, Cmd+Z \ub418\ub3cc\ub9ac\uae30",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oobg",
+    "repoName": "claude-code-mods",
+    "repoBranch": "main"
+  },
+  "hadi-yousef/pixel-lichtspiele": {
+    "name": "hadi-yousef/pixel-lichtspiele",
+    "description": "Stummfilme in Pixel-Art mit Klaviermusik \u2013 komplett im Code. Engine ohne Abh\u00e4ngigkeiten, sieben Filme, Video-Export und Claude-Code-Plugin. Pixel-art silent films, generated entirely in code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hadi-yousef",
+    "repoName": "pixel-lichtspiele",
+    "repoBranch": "main"
+  },
+  "nourhelmi/crew": {
+    "name": "nourhelmi/crew",
+    "description": "Run an engineering team of AI coding agents across Claude Code and Codex. Agents spawn, wake and message each other natively: no server, no database, zero dependencies.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nourhelmi",
+    "repoName": "crew",
+    "repoBranch": "main"
+  },
+  "Dani777rtg/shipwright": {
+    "name": "Dani777rtg/shipwright",
+    "description": "Spec-driven AI development method for Claude Code: requirements interview \u2192 architecture \u2192 plan \u2192 build \u2192 verify \u2192 ship \u2192 self-improving retro. Built on ECC.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Dani777rtg",
+    "repoName": "shipwright",
+    "repoBranch": "main"
   }
 }
