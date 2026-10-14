@@ -38818,5 +38818,104 @@
     "repoOwner": "Dani777rtg",
     "repoName": "shipwright",
     "repoBranch": "main"
+  },
+  "coreyhaines31/marketingskills": {
+    "name": "coreyhaines31/marketingskills",
+    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "coreyhaines31",
+    "repoName": "marketingskills",
+    "repoBranch": "main"
+  },
+  "VeryGoodOpenSource/vgv-ffca-plugin": {
+    "name": "VeryGoodOpenSource/vgv-ffca-plugin",
+    "description": "A Claude Code plugin that operationalizes Feature-First Clean Architecture (FFCA) for Flutter monorepos.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "VeryGoodOpenSource",
+    "repoName": "vgv-ffca-plugin",
+    "repoBranch": "main"
+  },
+  "gagoar/pr-brief": {
+    "name": "gagoar/pr-brief",
+    "description": "PR description gate and skill: brief, Input\u2192Functions\u2192Output diagrams, review guide",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gagoar",
+    "repoName": "pr-brief",
+    "repoBranch": "main"
+  },
+  "ilya-kozyrev/delamain": {
+    "name": "ilya-kozyrev/delamain",
+    "description": "An AI dispatcher for Claude Code and Codex: autonomous coding workers, shared records, resource locks, and handoffs across sessions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ilya-kozyrev",
+    "repoName": "delamain",
+    "repoBranch": "main"
+  },
+  "dominodatalab/domino-ai-plugin": {
+    "name": "dominodatalab/domino-ai-plugin",
+    "description": "Domino Data Lab skills and MCP server for AI coding agents: Claude Code, OpenAI Codex and ChatGPT, Gemini CLI and Antigravity",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dominodatalab",
+    "repoName": "domino-ai-plugin",
+    "repoBranch": "main"
+  },
+  "samuryann/ronin-toolkit": {
+    "name": "samuryann/ronin-toolkit",
+    "description": "Claude Code plugins for sysadmins and MSP techs. Run IT projects and troubleshooting in cheap, evidence-first phases: Haiku reads the logs, Opus only when you approve. Plus a FortiGate & Meraki engineer agent that kno...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "samuryann",
+    "repoName": "ronin-toolkit",
+    "repoBranch": "main"
+  },
+  "itsomidho/clawd-statusbar": {
+    "name": "itsomidho/clawd-statusbar",
+    "description": "Claude Code status bar: context, usage limits, git and pipeline status, and Clawd frying an egg while Claude works",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "itsomidho",
+    "repoName": "clawd-statusbar",
+    "repoBranch": "main"
+  },
+  "igorkravcenko/snowshoe": {
+    "name": "igorkravcenko/snowshoe",
+    "description": "Don't let your agents outrun your understanding. Keep your footing. A git-native personal comprehension map of a repository \u2014 tracks what goes stale after pull. Catch up after pull.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "igorkravcenko",
+    "repoName": "snowshoe",
+    "repoBranch": "main"
+  },
+  "bikemeardsley/where-my-hug": {
+    "name": "bikemeardsley/where-my-hug",
+    "description": "Where my hug at? Tell your AI agent what you want a model to do. It finds what Hugging Face already has for it, what to fine-tune, and what's just code, with every model checked live.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bikemeardsley",
+    "repoName": "where-my-hug",
+    "repoBranch": "main"
+  },
+  "AndreyBegma/code-sentinel-skills": {
+    "name": "AndreyBegma/code-sentinel-skills",
+    "description": "Code Sentinel: Claude Code plugin that reviews code and PRs, finds security and dead-code issues, and runs agent fleets",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AndreyBegma",
+    "repoName": "code-sentinel-skills",
+    "repoBranch": "main"
+  },
+  "npmiaman/makenomistakes": {
+    "name": "npmiaman/makenomistakes",
+    "description": "Vibecode like an L8 engineer. A Claude Code skill that takes any task end to end \u2014 finds the real problem, builds test-first, proves it on the real path, reviews itself, opens the PR \u2014 and stops only at one-way doors.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "npmiaman",
+    "repoName": "makenomistakes",
+    "repoBranch": "main"
   }
 }

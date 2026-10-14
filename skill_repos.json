@@ -46574,5 +46574,100 @@
         "name": "shipwright",
         "branch": "main",
         "enabled": true
+    },
+    "coreyhaines31/marketingskills": {
+        "owner": "coreyhaines31",
+        "name": "marketingskills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "VeryGoodOpenSource/vgv-ffca-plugin": {
+        "owner": "VeryGoodOpenSource",
+        "name": "vgv-ffca-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gagoar/pr-brief": {
+        "owner": "gagoar",
+        "name": "pr-brief",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ilya-kozyrev/delamain": {
+        "owner": "ilya-kozyrev",
+        "name": "delamain",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sinaida-space/for-tee-too": {
+        "owner": "sinaida-space",
+        "name": "for-tee-too",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dominodatalab/domino-ai-plugin": {
+        "owner": "dominodatalab",
+        "name": "domino-ai-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Mikebouskila/pelago": {
+        "owner": "Mikebouskila",
+        "name": "pelago",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "samuryann/ronin-toolkit": {
+        "owner": "samuryann",
+        "name": "ronin-toolkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "sinaida-space/seedance_prompter": {
+        "owner": "sinaida-space",
+        "name": "seedance_prompter",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "igorkravcenko/snowshoe": {
+        "owner": "igorkravcenko",
+        "name": "snowshoe",
+        "branch": "main",
+        "enabled": true
+    },
+    "bikemeardsley/where-my-hug": {
+        "owner": "bikemeardsley",
+        "name": "where-my-hug",
+        "branch": "main",
+        "enabled": true
+    },
+    "Ronnasayd/aipp": {
+        "owner": "Ronnasayd",
+        "name": "aipp",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AndreyBegma/code-sentinel-skills": {
+        "owner": "AndreyBegma",
+        "name": "code-sentinel-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "npmiaman/makenomistakes": {
+        "owner": "npmiaman",
+        "name": "makenomistakes",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

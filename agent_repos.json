@@ -6232,5 +6232,40 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "VeryGoodOpenSource/vgv-ffca-plugin": {
+    "owner": "VeryGoodOpenSource",
+    "name": "vgv-ffca-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "gagoar/pr-brief": {
+    "owner": "gagoar",
+    "name": "pr-brief",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ilya-kozyrev/delamain": {
+    "owner": "ilya-kozyrev",
+    "name": "delamain",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "dominodatalab/domino-ai-plugin": {
+    "owner": "dominodatalab",
+    "name": "domino-ai-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Ronnasayd/aipp": {
+    "owner": "Ronnasayd",
+    "name": "aipp",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
