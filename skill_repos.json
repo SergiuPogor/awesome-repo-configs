@@ -46669,5 +46669,111 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "solplum/high-confidence-mingli-skill": {
+        "owner": "solplum",
+        "name": "high-confidence-mingli-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "justsima/agentic-stack": {
+        "owner": "justsima",
+        "name": "agentic-stack",
+        "branch": "main",
+        "enabled": true
+    },
+    "EvanBatten/pstack-for-cc": {
+        "owner": "EvanBatten",
+        "name": "pstack-for-cc",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "novacon/check-loop": {
+        "owner": "novacon",
+        "name": "check-loop",
+        "branch": "main",
+        "enabled": true
+    },
+    "Zhang-jx00/jiangzuo": {
+        "owner": "Zhang-jx00",
+        "name": "jiangzuo",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ANVEAI/motion-pack": {
+        "owner": "ANVEAI",
+        "name": "motion-pack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "qxace12306-bit/plain-explainer": {
+        "owner": "qxace12306-bit",
+        "name": "plain-explainer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Ryan-LT/claude-mods": {
+        "owner": "Ryan-LT",
+        "name": "claude-mods",
+        "branch": "main",
+        "enabled": true
+    },
+    "tuyenht/Bearingkit": {
+        "owner": "tuyenht",
+        "name": "Bearingkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wowgs/claude-docs-local": {
+        "owner": "wowgs",
+        "name": "claude-docs-local",
+        "branch": "master",
+        "enabled": true
+    },
+    "solplum/setup-tool": {
+        "owner": "solplum",
+        "name": "setup-tool",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Perufitlife/postwire-skills": {
+        "owner": "Perufitlife",
+        "name": "postwire-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TranBaDat2607/claude-code-kaggle-grandmaster": {
+        "owner": "TranBaDat2607",
+        "name": "claude-code-kaggle-grandmaster",
+        "branch": "main",
+        "enabled": true
+    },
+    "AsaqeLee/peer-consult": {
+        "owner": "AsaqeLee",
+        "name": "peer-consult",
+        "branch": "main",
+        "enabled": true
+    },
+    "jaeminiz/awesome-agent-skills": {
+        "owner": "jaeminiz",
+        "name": "awesome-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vmobifystudio/claude-admob-android-skill": {
+        "owner": "vmobifystudio",
+        "name": "claude-admob-android-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

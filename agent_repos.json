@@ -6267,5 +6267,19 @@
     "branch": "master",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "EvanBatten/pstack-for-cc": {
+    "owner": "EvanBatten",
+    "name": "pstack-for-cc",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "tuyenht/Bearingkit": {
+    "owner": "tuyenht",
+    "name": "Bearingkit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

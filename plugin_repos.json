@@ -38917,5 +38917,113 @@
     "repoOwner": "npmiaman",
     "repoName": "makenomistakes",
     "repoBranch": "main"
+  },
+  "cablate/ctx-handoff-mod": {
+    "name": "cablate/ctx-handoff-mod",
+    "description": "Claude Code mod: hands off to a fresh conversation when context fills up, keeps the cache warm while you're away, and turns what you teach Claude into project notes",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cablate",
+    "repoName": "ctx-handoff-mod",
+    "repoBranch": "main"
+  },
+  "RiskAverseTech/toolgate": {
+    "name": "RiskAverseTech/toolgate",
+    "description": "A measured tool-call firewall for AI agents: allow, ask or deny before the agent acts. Claude Code mod and hook, MCP proxy. Built on TypeSafe Jev, measured on real sessions with a blind second labeler.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "RiskAverseTech",
+    "repoName": "toolgate",
+    "repoBranch": "main"
+  },
+  "justsima/agentic-stack": {
+    "name": "justsima/agentic-stack",
+    "description": "Portable agentic research stack for Claude Code \u2014 multi-agent deep research (ultradeep), best-on-market product research (market-scout), 5-advisor council, divergent ideation, + a one-command installer.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "justsima",
+    "repoName": "agentic-stack",
+    "repoBranch": "main"
+  },
+  "soulrocha/Claude-code-hero-journey": {
+    "name": "soulrocha/Claude-code-hero-journey",
+    "description": "\ud83e\udd80 A cozy RPG HUD mod for Claude Code (beta, desktop app first; CLI support planned): multiclass Clawd crab mascots, a quest log, a file guard and a grimoire that remembers what you learned. pt-BR + English.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "soulrocha",
+    "repoName": "Claude-code-hero-journey",
+    "repoBranch": "main"
+  },
+  "novacon/check-loop": {
+    "name": "novacon/check-loop",
+    "description": "Codex reviews your Claude Code plans, research and code before you commit. Adversarial multi-model review loop plugin for Claude Code and pi.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "novacon",
+    "repoName": "check-loop",
+    "repoBranch": "main"
+  },
+  "ANVEAI/motion-pack": {
+    "name": "ANVEAI/motion-pack",
+    "description": "Open-source video parts + 6 AI skills that take an agent from a prompt to a finished, beat-synced video. Every frame is a pure function of time; tested against 20 motion libraries. HyperFrames \u00b7 GSAP \u00b7 three.js \u00b7 Blen...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ANVEAI",
+    "repoName": "motion-pack",
+    "repoBranch": "main"
+  },
+  "Ryan-LT/claude-mods": {
+    "name": "Ryan-LT/claude-mods",
+    "description": "Claude Code mods: always-on usage-limits band (5-hour, weekly, context, pace warnings) and idle auto-compact that saves tokens",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ryan-LT",
+    "repoName": "claude-mods",
+    "repoBranch": "main"
+  },
+  "simota/claude-mods": {
+    "name": "simota/claude-mods",
+    "description": "Personal Claude Code mods (function-hook plugins) as one marketplace: status-line PR lamp, error book, quality gates, self-audit, subagent pane, context meter and more",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "simota",
+    "repoName": "claude-mods",
+    "repoBranch": "main"
+  },
+  "tuyenht/Bearingkit": {
+    "name": "tuyenht/Bearingkit",
+    "description": "Open-source workflow for AI coding agents: routes each request to the right step, stops for approval before risky changes, and shows evidence before claiming done. Claude Code and Antigravity today; Gemini CLI, Cursor...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tuyenht",
+    "repoName": "Bearingkit",
+    "repoBranch": "main"
+  },
+  "Perufitlife/postwire-skills": {
+    "name": "Perufitlife/postwire-skills",
+    "description": "Agent skills to plan, write and schedule social media posts with PostWire",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Perufitlife",
+    "repoName": "postwire-skills",
+    "repoBranch": "master"
+  },
+  "TranBaDat2607/claude-code-kaggle-grandmaster": {
+    "name": "TranBaDat2607/claude-code-kaggle-grandmaster",
+    "description": "Claude Code plugin for Kaggle competitions: makes Claude a Grandmaster-level AI teammate. Leak-free CV, experiment tracking, tabular/CV/NLP/LLM/time-series playbooks, ensembling, code-competition kernels. 34 skills, 9...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TranBaDat2607",
+    "repoName": "claude-code-kaggle-grandmaster",
+    "repoBranch": "main"
+  },
+  "vmobifystudio/claude-admob-android-skill": {
+    "name": "vmobifystudio/claude-admob-android-skill",
+    "description": "Claude Code skill for production-grade AdMob on Android: legacy + GMA Next-Gen SDK, Meta mediation, UMP consent, all 5 ad formats, lifecycle rules learned in production, release gates and an audit checklist.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vmobifystudio",
+    "repoName": "claude-admob-android-skill",
+    "repoBranch": "main"
   }
 }
