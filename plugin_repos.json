@@ -39286,5 +39286,14 @@
     "repoOwner": "cybiqon-ai",
     "repoName": "faceless-video-studio",
     "repoBranch": "main"
+  },
+  "tuantqse90/moltnode-mcp": {
+    "name": "tuantqse90/moltnode-mcp",
+    "description": "MoltNode by Chord: read 31 blockchains over JSON-RPC and get DEX swap quotes and unsigned transactions via Chord. Two hosted MCP servers (MoltNode, Chord) and three skills. No API key; non-custodial.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tuantqse90",
+    "repoName": "moltnode-mcp",
+    "repoBranch": "main"
   }
 }
