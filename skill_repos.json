@@ -46965,5 +46965,19 @@
         "name": "faceless-video-studio",
         "branch": "main",
         "enabled": true
+    },
+    "tuantqse90/moltnode-mcp": {
+        "owner": "tuantqse90",
+        "name": "moltnode-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "getchordlabs/chord": {
+        "owner": "getchordlabs",
+        "name": "chord",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

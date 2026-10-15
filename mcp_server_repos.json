@@ -194,5 +194,22 @@
     "enabled": true,
     "serverName": "io.github.nowork-studio/notfair",
     "note": "Hosted OAuth MCP for Google Ads, Meta Ads, X Ads, LinkedIn Ads, Reddit Ads, TikTok Ads, Search Console, GA4, WordPress and GoHighLevel. Hosted MCP: https://notfair.co/api/mcp/notfair (Streamable HTTP, OAuth). The repo contains the MIT-licensed SEO, GEO and marketing skills and client configuration, not the server implementation. Canonical metadata is in server.json. Site: https://notfair.co"
+  },
+  "tuantqse90/moltnode-mcp": {
+    "owner": "tuantqse90",
+    "name": "moltnode-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.tuantqse90/moltnode",
+    "note": "MoltNode by Chord: read 31 blockchains over JSON-RPC (Ethereum, Base, Arbitrum, Solana, Monad, BNB Chain, Avalanche, Sui and more) and get DEX swap quotes with the unsigned transaction, approval and simulation via Chord. Hosted MCP: https://moltnode.ag/mcp (Streamable HTTP, no account or API key). Non-custodial: tools return unsigned transactions and the user's wallet signs. The MIT repo holds a stdio bridge to the hosted server (npx -y github:tuantqse90/moltnode-mcp), skills and a Dockerfile, not the hosted server itself. Canonical metadata is in server.json. Docs: https://moltnode.ag/agents"
+  },
+  "getchordlabs/chord": {
+    "owner": "getchordlabs",
+    "name": "chord",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.getchordlabs/chord",
+    "subPath": "agent",
+    "note": "Chord: best-route DEX swap quotes and unsigned swap transactions on 7 EVM chains (Base, Monad, BNB Chain, Avalanche, Arbitrum, Robinhood Chain, Arc), plus token boards, candles, trades, wallet PnL, smart money, holders and LP pools (Solana data read-only). Hosted MCP: https://api.getchord.xyz/v1/mcp (Streamable HTTP, no key for data and swap tools at about 60 requests a minute; only chord_ask needs a Chord API key). Non-custodial. The MIT repo holds the TypeScript stdio bridge in agent/, plus the SDK, contracts and skills, not the hosted server itself. Canonical metadata is in server.json. Docs: https://getchord.xyz/docs/agents/mcp/"
   }
 }
