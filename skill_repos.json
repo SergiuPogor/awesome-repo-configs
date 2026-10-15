@@ -46775,5 +46775,91 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "unbrowse-ai/unbrowse": {
+        "owner": "unbrowse-ai",
+        "name": "unbrowse",
+        "branch": "main",
+        "enabled": true
+    },
+    "Masriyan/Claude-Code-CyberSecurity-Skill": {
+        "owner": "Masriyan",
+        "name": "Claude-Code-CyberSecurity-Skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "neurawork-git/n8n-autopilot": {
+        "owner": "neurawork-git",
+        "name": "n8n-autopilot",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "NoesisVision/nasde-toolkit": {
+        "owner": "NoesisVision",
+        "name": "nasde-toolkit",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "omeerdvrn/o-mods": {
+        "owner": "omeerdvrn",
+        "name": "o-mods",
+        "branch": "main",
+        "enabled": true
+    },
+    "endformdev/skills": {
+        "owner": "endformdev",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lc-d/deep-a11y-web-skill": {
+        "owner": "lc-d",
+        "name": "deep-a11y-web-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dongdong2023/webnovel-house-style": {
+        "owner": "dongdong2023",
+        "name": "webnovel-house-style",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "TFoxik/claude-model-router": {
+        "owner": "TFoxik",
+        "name": "claude-model-router",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ggi3201/onebox": {
+        "owner": "ggi3201",
+        "name": "onebox",
+        "branch": "main",
+        "enabled": true
+    },
+    "Katta041/asitis-agent-tools": {
+        "owner": "Katta041",
+        "name": "asitis-agent-tools",
+        "branch": "main",
+        "enabled": true
+    },
+    "IcaruzSoftware/claude-bdd": {
+        "owner": "IcaruzSoftware",
+        "name": "claude-bdd",
+        "branch": "main",
+        "enabled": true
+    },
+    "pkahlem/eu-grant-writer": {
+        "owner": "pkahlem",
+        "name": "eu-grant-writer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

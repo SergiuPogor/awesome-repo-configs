@@ -39025,5 +39025,140 @@
     "repoOwner": "vmobifystudio",
     "repoName": "claude-admob-android-skill",
     "repoBranch": "main"
+  },
+  "unbrowse-ai/unbrowse": {
+    "name": "unbrowse-ai/unbrowse",
+    "description": "Unbrowse - Reverse engineer any website so that your agents can access its APIs directly",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "unbrowse-ai",
+    "repoName": "unbrowse",
+    "repoBranch": "main"
+  },
+  "Masriyan/Claude-Code-CyberSecurity-Skill": {
+    "name": "Masriyan/Claude-Code-CyberSecurity-Skill",
+    "description": "22 production-quality Claude Code Skills for cybersecurity professionals \u2014 covering offensive security, defensive operations, reverse engineering, threat hunting, threat intelligence, purple team / adversary emulation...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Masriyan",
+    "repoName": "Claude-Code-CyberSecurity-Skill",
+    "repoBranch": "main"
+  },
+  "ray-amjad/claude-code-mods": {
+    "name": "ray-amjad/claude-code-mods",
+    "description": "Ray Amjad's Claude Code mods: panes, bands, prompt guards, secret handling and memory tools. One marketplace, each mod installs on its own.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ray-amjad",
+    "repoName": "claude-code-mods",
+    "repoBranch": "main"
+  },
+  "neurawork-git/n8n-autopilot": {
+    "name": "neurawork-git/n8n-autopilot",
+    "description": "Claude Code plugin for building, validating, and deploying n8n workflows via n8nac CLI",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "neurawork-git",
+    "repoName": "n8n-autopilot",
+    "repoBranch": "main"
+  },
+  "omeerdvrn/o-mods": {
+    "name": "omeerdvrn/o-mods",
+    "description": "omeerdvrn/o-mods \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "omeerdvrn",
+    "repoName": "o-mods",
+    "repoBranch": "main"
+  },
+  "endformdev/skills": {
+    "name": "endformdev/skills",
+    "description": "Let your agent run and maintain your Playwright tests on Endform.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "endformdev",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "Advnirr/clawd-fm": {
+    "name": "Advnirr/clawd-fm",
+    "description": "Claude FM lofi radio inside Claude Code: the live stream, now playing, and animated Clawd scenes above the prompt",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Advnirr",
+    "repoName": "clawd-fm",
+    "repoBranch": "main"
+  },
+  "lc-d/deep-a11y-web-skill": {
+    "name": "lc-d/deep-a11y-web-skill",
+    "description": "The final web accessibility agent skill to help front end developers build 100% accessible user interface component and web pages.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lc-d",
+    "repoName": "deep-a11y-web-skill",
+    "repoBranch": "main"
+  },
+  "TFoxik/claude-model-router": {
+    "name": "TFoxik/claude-model-router",
+    "description": "A Claude Code mod that picks the model and effort for each kind of work, and shows what those choices cost",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TFoxik",
+    "repoName": "claude-model-router",
+    "repoBranch": "main"
+  },
+  "ggi3201/onebox": {
+    "name": "ggi3201/onebox",
+    "description": "Get your Expo / React Native app on the App Store: agent skills and plain guides, with an optional backend on one cheap box.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ggi3201",
+    "repoName": "onebox",
+    "repoBranch": "main"
+  },
+  "JSungMin/crew-graph": {
+    "name": "JSungMin/crew-graph",
+    "description": "Claude Code mod: live pane with your agent crew as a tree, plan/doc relationship graph, and cute animated critters acting out each agent's work",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JSungMin",
+    "repoName": "crew-graph",
+    "repoBranch": "main"
+  },
+  "rezzminator/effort-live-control": {
+    "name": "rezzminator/effort-live-control",
+    "description": "Set each Claude Code sub-agent's reasoning effort per spawn: start the Agent prompt with [effort: low|medium|high|xhigh|max].",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rezzminator",
+    "repoName": "effort-live-control",
+    "repoBranch": "develop"
+  },
+  "Katta041/asitis-agent-tools": {
+    "name": "Katta041/asitis-agent-tools",
+    "description": "Read-only MCP server and Claude Code plugin that lints CLAUDE.md, AGENTS.md and SKILL.md, counts approximate tokens per file, flags hidden instructions and invisible characters, and guards markdown files against accid...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Katta041",
+    "repoName": "asitis-agent-tools",
+    "repoBranch": "main"
+  },
+  "IcaruzSoftware/claude-bdd": {
+    "name": "IcaruzSoftware/claude-bdd",
+    "description": "Claude Code plugin for Behavior-Driven Development (BDD): Example Mapping discovery, Gherkin feature files as living documentation, and test generation with Cucumber, pytest-bdd or plain tests. Turn rough ideas or unt...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "IcaruzSoftware",
+    "repoName": "claude-bdd",
+    "repoBranch": "main"
+  },
+  "pkahlem/eu-grant-writer": {
+    "name": "pkahlem/eu-grant-writer",
+    "description": "Free AI skill by Scientific Network Management: the 18-recipe method of The EU Grant Writer's AI Playbook for EU research proposals, for Claude, ChatGPT, Gemini, Copilot and coding agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pkahlem",
+    "repoName": "eu-grant-writer",
+    "repoBranch": "main"
   }
 }

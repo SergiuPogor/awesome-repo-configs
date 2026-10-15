@@ -6281,5 +6281,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "neurawork-git/n8n-autopilot": {
+    "owner": "neurawork-git",
+    "name": "n8n-autopilot",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "rezzminator/effort-live-control": {
+    "owner": "rezzminator",
+    "name": "effort-live-control",
+    "branch": "develop",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }
