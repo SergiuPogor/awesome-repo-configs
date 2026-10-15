@@ -46979,5 +46979,125 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "beatra-ai/beatra-skills": {
+        "owner": "beatra-ai",
+        "name": "beatra-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "beatra-ai/ai-product-photography-skill": {
+        "owner": "beatra-ai",
+        "name": "ai-product-photography-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "beatra-ai/talking-avatar-video-skill": {
+        "owner": "beatra-ai",
+        "name": "talking-avatar-video-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "afinit-com/the-world-skills": {
+        "owner": "afinit-com",
+        "name": "the-world-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gbourgeat/ddd-ts-kit": {
+        "owner": "gbourgeat",
+        "name": "ddd-ts-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "howard-lynn-ye/Fin-RSI": {
+        "owner": "howard-lynn-ye",
+        "name": "Fin-RSI",
+        "branch": "master",
+        "enabled": true
+    },
+    "varuntej07/tej-stack": {
+        "owner": "varuntej07",
+        "name": "tej-stack",
+        "branch": "main",
+        "enabled": true
+    },
+    "praveenpatri/tpm-interview-prep": {
+        "owner": "praveenpatri",
+        "name": "tpm-interview-prep",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "seevali/claude-skills": {
+        "owner": "seevali",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Floriferous/tipee-tools": {
+        "owner": "Floriferous",
+        "name": "tipee-tools",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "sahmett/vibe-receipts": {
+        "owner": "sahmett",
+        "name": "vibe-receipts",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "drkostas/claude-ops": {
+        "owner": "drkostas",
+        "name": "claude-ops",
+        "branch": "main",
+        "enabled": true
+    },
+    "ehnruiz/claude-skills": {
+        "owner": "ehnruiz",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Simbastack-hq/slopit-skills": {
+        "owner": "Simbastack-hq",
+        "name": "slopit-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mybrain-ai/mcp": {
+        "owner": "mybrain-ai",
+        "name": "mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "NaveenGaneshe/power-platform-alm-toolkit-skill": {
+        "owner": "NaveenGaneshe",
+        "name": "power-platform-alm-toolkit-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "eli-alvarado/us-watchlist-alerts": {
+        "owner": "eli-alvarado",
+        "name": "us-watchlist-alerts",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "adnanrahim110/ui-motion-skill": {
+        "owner": "adnanrahim110",
+        "name": "ui-motion-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

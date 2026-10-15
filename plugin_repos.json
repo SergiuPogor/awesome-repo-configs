@@ -39295,5 +39295,104 @@
     "repoOwner": "tuantqse90",
     "repoName": "moltnode-mcp",
     "repoBranch": "main"
+  },
+  "afinit-com/the-world-skills": {
+    "name": "afinit-com/the-world-skills",
+    "description": "Agent skills that build Slack and Discord bot harnesses \u2014 collaborating characters with narrow, code-enforced authority.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "afinit-com",
+    "repoName": "the-world-skills",
+    "repoBranch": "main"
+  },
+  "gbourgeat/ddd-ts-kit": {
+    "name": "gbourgeat/ddd-ts-kit",
+    "description": "Domain-Driven Design (DDD), Clean Architecture (hexagonal, ports and adapters) and Clean Code for TypeScript and Node.js backends: CLI to bootstrap, scaffold and check, runtime packages, ESLint plugin, CI pipelines, a...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gbourgeat",
+    "repoName": "ddd-ts-kit",
+    "repoBranch": "main"
+  },
+  "howard-lynn-ye/Fin-RSI": {
+    "name": "howard-lynn-ye/Fin-RSI",
+    "description": "Source-verified knowledge base of the Python quantitative-finance ecosystem, packaged as Agent Skills. Every claim dated and marked verified/secondhand/unverified.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "howard-lynn-ye",
+    "repoName": "Fin-RSI",
+    "repoBranch": "master"
+  },
+  "varuntej07/tej-stack": {
+    "name": "varuntej07/tej-stack",
+    "description": "Agent skills that show proof or say nothing. Evidence-first audits for Claude Code and Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "varuntej07",
+    "repoName": "tej-stack",
+    "repoBranch": "main"
+  },
+  "seevali/claude-skills": {
+    "name": "seevali/claude-skills",
+    "description": "Claude Code skills by Seevali Rathnayake: design-council (a five-designer critique panel), mission-command (a scarce flagship model conducting a fleet of cheaper models) and ratification-docket (decision ballots from...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "seevali",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "Koder-SpA/claude-mods": {
+    "name": "Koder-SpA/claude-mods",
+    "description": "Claude Code plugins by Koder SpA \u2014 real-time token cost, context and rate-limit dashboard for your statusline",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Koder-SpA",
+    "repoName": "claude-mods",
+    "repoBranch": "master"
+  },
+  "Floriferous/tipee-tools": {
+    "name": "Floriferous/tipee-tools",
+    "description": "Tipee for Claude: a plugin that lets Claude read and change your company's Tipee HR data \u2014 employees, teams, shifts, absences, on-calls, activities, time clock.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Floriferous",
+    "repoName": "tipee-tools",
+    "repoBranch": "main"
+  },
+  "sahmett/vibe-receipts": {
+    "name": "sahmett/vibe-receipts",
+    "description": "\ud83e\uddfe Receipts for your vibe coding \u2014 how many hours did you really work with Claude? Measured from your own prompts, with commits as proof.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sahmett",
+    "repoName": "vibe-receipts",
+    "repoBranch": "main"
+  },
+  "ehnruiz/claude-skills": {
+    "name": "ehnruiz/claude-skills",
+    "description": "Claude Code skills and subagents: route work across model tiers, hand off between sessions, write tickets people read, keep AI credit out of your commits.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ehnruiz",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "Simbastack-hq/slopit-skills": {
+    "name": "Simbastack-hq/slopit-skills",
+    "description": "Free agent skills for SlopIt blogs: write findable posts, then pick the next one from which AI systems read them. Claude Code, Codex, Cursor, OpenClaw.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Simbastack-hq",
+    "repoName": "slopit-skills",
+    "repoBranch": "main"
+  },
+  "eli-alvarado/us-watchlist-alerts": {
+    "name": "eli-alvarado/us-watchlist-alerts",
+    "description": "Agent Skills (SKILL.md) for US stock watchlists & price alerts - Claude Code, Codex, Cursor, Gemini CLI",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "eli-alvarado",
+    "repoName": "us-watchlist-alerts",
+    "repoBranch": "main"
   }
 }

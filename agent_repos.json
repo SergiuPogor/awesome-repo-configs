@@ -6302,5 +6302,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "ehnruiz/claude-skills": {
+    "owner": "ehnruiz",
+    "name": "claude-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
