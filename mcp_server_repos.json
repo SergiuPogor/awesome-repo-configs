@@ -186,5 +186,13 @@
     "serverName": "io.github.allxsmith/bestax-mcp",
     "subPath": "bestax-mcp",
     "note": "Props, working examples, --bulma-* CSS variables and Agent Skills for Bestax, React components for Bulma v1. Local stdio, offline, no API key. Package: bestax-mcp (npx -y bestax-mcp@1). MIT."
+  },
+  "nowork-studio/notfair-plugin": {
+    "owner": "nowork-studio",
+    "name": "notfair-plugin",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.nowork-studio/notfair",
+    "note": "Hosted OAuth MCP for Google Ads, Meta Ads, X Ads, LinkedIn Ads, Reddit Ads, TikTok Ads, Search Console, GA4, WordPress and GoHighLevel. Hosted MCP: https://notfair.co/api/mcp/notfair (Streamable HTTP, OAuth). The repo contains the MIT-licensed SEO, GEO and marketing skills and client configuration, not the server implementation. Canonical metadata is in server.json. Site: https://notfair.co"
   }
 }
