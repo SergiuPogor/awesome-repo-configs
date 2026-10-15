@@ -46861,5 +46861,109 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "assafkip/claudemy": {
+        "owner": "assafkip",
+        "name": "claudemy",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "patrick-xin/diagram-design-zh": {
+        "owner": "patrick-xin",
+        "name": "diagram-design-zh",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "erafat/skills": {
+        "owner": "erafat",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "OSINT-Forge-Community/osint-forge-skills": {
+        "owner": "OSINT-Forge-Community",
+        "name": "osint-forge-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "letsloose501/sqs-skills": {
+        "owner": "letsloose501",
+        "name": "sqs-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tanmayai23/README-Editor-skill": {
+        "owner": "tanmayai23",
+        "name": "README-Editor-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "dassjaylabs/filmwright": {
+        "owner": "dassjaylabs",
+        "name": "filmwright",
+        "branch": "main",
+        "enabled": true
+    },
+    "gurovdigital/duo-ready": {
+        "owner": "gurovdigital",
+        "name": "duo-ready",
+        "branch": "main",
+        "enabled": true
+    },
+    "bhu0345/claude-how-long": {
+        "owner": "bhu0345",
+        "name": "claude-how-long",
+        "branch": "main",
+        "enabled": true
+    },
+    "moooai/takeout-coupon": {
+        "owner": "moooai",
+        "name": "takeout-coupon",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "captjt/skill-tts": {
+        "owner": "captjt",
+        "name": "skill-tts",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "maxwellmattryan/forge": {
+        "owner": "maxwellmattryan",
+        "name": "forge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dgesteves/onsystem": {
+        "owner": "dgesteves",
+        "name": "onsystem",
+        "branch": "main",
+        "enabled": true
+    },
+    "Sae-l/tutor": {
+        "owner": "Sae-l",
+        "name": "tutor",
+        "branch": "main",
+        "enabled": true
+    },
+    "metafeng/gpthuatu": {
+        "owner": "metafeng",
+        "name": "gpthuatu",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "cybiqon-ai/faceless-video-studio": {
+        "owner": "cybiqon-ai",
+        "name": "faceless-video-studio",
+        "branch": "main",
+        "enabled": true
     }
 }

@@ -39160,5 +39160,131 @@
     "repoOwner": "pkahlem",
     "repoName": "eu-grant-writer",
     "repoBranch": "main"
+  },
+  "chipfighter/context-attachment-manager": {
+    "name": "chipfighter/context-attachment-manager",
+    "description": "Codex and Claude Code plugin (works in Claude Desktop): choose which past images go to the model with your next message. Unchecked images become placeholders, the conversation goes on, and requests stay small.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chipfighter",
+    "repoName": "context-attachment-manager",
+    "repoBranch": "main"
+  },
+  "assafkip/claudemy": {
+    "name": "assafkip/claudemy",
+    "description": "Claudemy: an open-source alternative to Udemy and Coursera. Give Claude a topic, it researches the web and builds a course of 2-minute audio lessons with cited sources. A free Claude Code skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "assafkip",
+    "repoName": "claudemy",
+    "repoBranch": "main"
+  },
+  "OSINT-Forge-Community/osint-forge-skills": {
+    "name": "OSINT-Forge-Community/osint-forge-skills",
+    "description": "\u2692\ufe0f Open-source OSINT and digital forensics skills for AI assistants. Investigate sources, challenge hypotheses, analyze artifacts, and produce evidence-referenced reports with portable case files and offline Python to...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "OSINT-Forge-Community",
+    "repoName": "osint-forge-skills",
+    "repoBranch": "main"
+  },
+  "dougcunha/claude-mods": {
+    "name": "dougcunha/claude-mods",
+    "description": "Mods for Claude Code: panes, commands and hooks built with the plugin function-hooks API",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dougcunha",
+    "repoName": "claude-mods",
+    "repoBranch": "main"
+  },
+  "letsloose501/sqs-skills": {
+    "name": "letsloose501/sqs-skills",
+    "description": "SQS (Skill Quality Suite): linter, validator, security scanner and eval harness for AI Agent Skills (SKILL.md) on Claude Code, Codex, Cursor and Gemini CLI - and it tells you which skill to fix or write next from your...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "letsloose501",
+    "repoName": "sqs-skills",
+    "repoBranch": "main"
+  },
+  "tanmayai23/README-Editor-skill": {
+    "name": "tanmayai23/README-Editor-skill",
+    "description": "Generate, improve, score, and style project documentation from the codebase\u2014not from guesswork",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tanmayai23",
+    "repoName": "README-Editor-skill",
+    "repoBranch": "main"
+  },
+  "novacon/ohmyjev": {
+    "name": "novacon/ohmyjev",
+    "description": "Jev, batteries included, for Claude Code, Codex, pi and omp: no permission prompts for safe commands, long output trimmed, the right skill loaded, and destructive commands (rm -rf, force push) or data exfiltration sto...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "novacon",
+    "repoName": "ohmyjev",
+    "repoBranch": "main"
+  },
+  "dassjaylabs/filmwright": {
+    "name": "dassjaylabs/filmwright",
+    "description": "Narrated product films made on your own machine: screen-recorded demo walkthroughs, animated explainers, or both. Preset, described or consented cloned voices, talking-head presenter, mood-matched music.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dassjaylabs",
+    "repoName": "filmwright",
+    "repoBranch": "main"
+  },
+  "gurovdigital/duo-ready": {
+    "name": "gurovdigital/duo-ready",
+    "description": "Claude skill that makes your website look its best on iPhone Duo - closed, opened, in Split View and in in-app browsers.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gurovdigital",
+    "repoName": "duo-ready",
+    "repoBranch": "main"
+  },
+  "captjt/skill-tts": {
+    "name": "captjt/skill-tts",
+    "description": "Text-to-speech skill for Claude Code & coding agents: timed voiceovers for product videos, read-aloud, 7 providers (Kokoro, ElevenLabs, OpenAI, Gemini\u2026).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "captjt",
+    "repoName": "skill-tts",
+    "repoBranch": "main"
+  },
+  "bradtraversy/claude-mods": {
+    "name": "bradtraversy/claude-mods",
+    "description": "Personal Claude Code mods for interface customization, safety, and verification",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bradtraversy",
+    "repoName": "claude-mods",
+    "repoBranch": "main"
+  },
+  "maxwellmattryan/forge": {
+    "name": "maxwellmattryan/forge",
+    "description": "Forge: a lightweight, self-improving software factory for AI coding agents. Orchestrator + agent roster, parallel worktrees, PR/tracker sync, evals, retros and a live dashboard. Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "maxwellmattryan",
+    "repoName": "forge",
+    "repoBranch": "main"
+  },
+  "dgesteves/onsystem": {
+    "name": "dgesteves/onsystem",
+    "description": "Keeps coding agents on your design system: it knows your real components, props, variants and tokens, catches the moment an agent invents one and has it fix it, and the same check gates your PRs. Local, zero config, w...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dgesteves",
+    "repoName": "onsystem",
+    "repoBranch": "main"
+  },
+  "cybiqon-ai/faceless-video-studio": {
+    "name": "cybiqon-ai/faceless-video-studio",
+    "description": "A Claude Code skill that researches, scripts, voices and renders a finished explainer video every day \u2014 HyperFrames, a HeyGen clone of your voice, and 38 pass/fail gates against AI slop.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cybiqon-ai",
+    "repoName": "faceless-video-studio",
+    "repoBranch": "main"
   }
 }

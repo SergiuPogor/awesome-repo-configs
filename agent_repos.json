@@ -6295,5 +6295,12 @@
     "branch": "develop",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "maxwellmattryan/forge": {
+    "owner": "maxwellmattryan",
+    "name": "forge",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
