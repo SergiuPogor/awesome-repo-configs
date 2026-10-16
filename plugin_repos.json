@@ -39511,5 +39511,14 @@
     "repoOwner": "postoncehq",
     "repoName": "instagram-mcp",
     "repoBranch": "main"
+  },
+  "AltoRank/altorank": {
+    "name": "AltoRank/altorank",
+    "description": "AltoRank plugin for Claude Code: SEO content workflow over a hosted MCP server. Check AI-crawler readiness, research keywords, read Search Console and write sourced drafts into a review queue. Open source, AGPL-3.0.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AltoRank",
+    "repoName": "altorank",
+    "repoBranch": "main"
   }
 }
