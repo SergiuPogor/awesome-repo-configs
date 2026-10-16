@@ -39394,5 +39394,122 @@
     "repoOwner": "eli-alvarado",
     "repoName": "us-watchlist-alerts",
     "repoBranch": "main"
+  },
+  "SummerEngine/summer": {
+    "name": "SummerEngine/summer",
+    "description": "The game engine built for AI. MCP server, CLI and skills that let any agent build, test and publish full games with Summer Engine.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SummerEngine",
+    "repoName": "summer",
+    "repoBranch": "main"
+  },
+  "rueca/rueca": {
+    "name": "rueca/rueca",
+    "description": "Spin your prototype into a tool.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rueca",
+    "repoName": "rueca",
+    "repoBranch": "main"
+  },
+  "gulsahsarsilmaz/chaff": {
+    "name": "gulsahsarsilmaz/chaff",
+    "description": "Separate the live work from the dead weight on a developer machine: build daemons, caches, build output and stale git worktrees, with tiered safe cleanup. CLI, Claude Code plugin and MCP server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gulsahsarsilmaz",
+    "repoName": "chaff",
+    "repoBranch": "main"
+  },
+  "sdusteric/earshot": {
+    "name": "sdusteric/earshot",
+    "description": "Voice notifications for Claude Code: hear when it needs your OK, gets stuck, or finishes, and what it got done. ElevenLabs text-to-speech for macOS.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sdusteric",
+    "repoName": "earshot",
+    "repoBranch": "main"
+  },
+  "postoncehq/pinterest-mcp": {
+    "name": "postoncehq/pinterest-mcp",
+    "description": "Pinterest MCP server for Claude, ChatGPT, Cursor and Codex. Publish and schedule Pinterest pins, carousels and video pins with titles, links and boards through Pinterest's official API. No scraping, no developer app.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "postoncehq",
+    "repoName": "pinterest-mcp",
+    "repoBranch": "main"
+  },
+  "ChaseSunstrom/foreman": {
+    "name": "ChaseSunstrom/foreman",
+    "description": "The discipline layer for Claude Code. What Claude Code should be.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ChaseSunstrom",
+    "repoName": "foreman",
+    "repoBranch": "main"
+  },
+  "postoncehq/youtube-mcp": {
+    "name": "postoncehq/youtube-mcp",
+    "description": "YouTube MCP server for Claude, ChatGPT, Cursor and Codex. Upload, publish and schedule YouTube videos and Shorts with titles, descriptions and privacy through YouTube's official API. Includes title, description, tag,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "postoncehq",
+    "repoName": "youtube-mcp",
+    "repoBranch": "main"
+  },
+  "postoncehq/x-mcp": {
+    "name": "postoncehq/x-mcp",
+    "description": "X (Twitter) MCP server for Claude, ChatGPT, Cursor and Codex. Publish and schedule tweets with images, GIFs and video through X's official API, plus skills for tweets, threads, bios and content calendars. No scraping,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "postoncehq",
+    "repoName": "x-mcp",
+    "repoBranch": "main"
+  },
+  "postoncehq/tiktok-mcp": {
+    "name": "postoncehq/tiktok-mcp",
+    "description": "TikTok MCP server for Claude, ChatGPT, Cursor and Codex. Publish and schedule TikTok videos and photo slideshows, or send drafts to your TikTok inbox, through TikTok's official API. No scraping, no developer app.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "postoncehq",
+    "repoName": "tiktok-mcp",
+    "repoBranch": "main"
+  },
+  "postoncehq/threads-mcp": {
+    "name": "postoncehq/threads-mcp",
+    "description": "Threads MCP server for Claude, ChatGPT, Cursor and Codex. Publish and schedule Threads posts with text, images, video and carousels through Threads' official API. No scraping, no developer app.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "postoncehq",
+    "repoName": "threads-mcp",
+    "repoBranch": "main"
+  },
+  "postoncehq/postonce-skills": {
+    "name": "postoncehq/postonce-skills",
+    "description": "Official PostOnce skills + MCP server for Claude, ChatGPT, Cursor and Codex. Write native posts, crosspost to 9 social platforms and schedule content calendars through official APIs. Includes 100 hooks and 49 viral fo...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "postoncehq",
+    "repoName": "postonce-skills",
+    "repoBranch": "main"
+  },
+  "postoncehq/linkedin-mcp": {
+    "name": "postoncehq/linkedin-mcp",
+    "description": "LinkedIn MCP server for Claude, ChatGPT, Cursor and Codex. Publish and schedule LinkedIn posts, images and video through LinkedIn's official API. No scraping, no developer app.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "postoncehq",
+    "repoName": "linkedin-mcp",
+    "repoBranch": "main"
+  },
+  "postoncehq/instagram-mcp": {
+    "name": "postoncehq/instagram-mcp",
+    "description": "Instagram MCP server for Claude, ChatGPT, Cursor and Codex. Publish and schedule Instagram posts, carousels and Reels through Instagram's official API. No scraping, no developer app.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "postoncehq",
+    "repoName": "instagram-mcp",
+    "repoBranch": "main"
   }
 }

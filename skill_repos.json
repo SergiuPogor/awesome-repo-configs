@@ -47106,5 +47106,120 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "SummerEngine/summer": {
+        "owner": "SummerEngine",
+        "name": "summer",
+        "branch": "main",
+        "enabled": true
+    },
+    "ShadowSwaps/REA-Reconstruction-Companion": {
+        "owner": "ShadowSwaps",
+        "name": "REA-Reconstruction-Companion",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rueca/rueca": {
+        "owner": "rueca",
+        "name": "rueca",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dizhouid-lgtm/liepin-ai-loop-recruiting": {
+        "owner": "dizhouid-lgtm",
+        "name": "liepin-ai-loop-recruiting",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "gulsahsarsilmaz/chaff": {
+        "owner": "gulsahsarsilmaz",
+        "name": "chaff",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sdusteric/earshot": {
+        "owner": "sdusteric",
+        "name": "earshot",
+        "branch": "main",
+        "enabled": true
+    },
+    "postoncehq/pinterest-mcp": {
+        "owner": "postoncehq",
+        "name": "pinterest-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Jasonin2099/mcd-team-feast": {
+        "owner": "Jasonin2099",
+        "name": "mcd-team-feast",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ChaseSunstrom/foreman": {
+        "owner": "ChaseSunstrom",
+        "name": "foreman",
+        "branch": "main",
+        "enabled": true
+    },
+    "rsdlt/rsdlt.github.io": {
+        "owner": "rsdlt",
+        "name": "rsdlt.github.io",
+        "branch": "main",
+        "enabled": true
+    },
+    "postoncehq/youtube-mcp": {
+        "owner": "postoncehq",
+        "name": "youtube-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "postoncehq/x-mcp": {
+        "owner": "postoncehq",
+        "name": "x-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "postoncehq/tiktok-mcp": {
+        "owner": "postoncehq",
+        "name": "tiktok-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "postoncehq/threads-mcp": {
+        "owner": "postoncehq",
+        "name": "threads-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "postoncehq/postonce-skills": {
+        "owner": "postoncehq",
+        "name": "postonce-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "postoncehq/linkedin-mcp": {
+        "owner": "postoncehq",
+        "name": "linkedin-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "postoncehq/instagram-mcp": {
+        "owner": "postoncehq",
+        "name": "instagram-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
