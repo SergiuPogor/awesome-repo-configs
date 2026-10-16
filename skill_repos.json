@@ -1,4 +1,11 @@
 {
+    "openhook-dev/openhook-inbox": {
+        "owner": "openhook-dev",
+        "name": "openhook-inbox",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "nd-silva-08/QA-visual": {
         "owner": "nd-silva-08",
         "name": "QA-visual",
