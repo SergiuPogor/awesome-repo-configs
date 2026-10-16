@@ -1,4 +1,11 @@
 {
+    "makepartsnow/skills": {
+        "owner": "makepartsnow",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "openhook-dev/openhook-inbox": {
         "owner": "openhook-dev",
         "name": "openhook-inbox",
