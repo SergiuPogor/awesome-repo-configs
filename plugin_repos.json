@@ -39520,5 +39520,122 @@
     "repoOwner": "AltoRank",
     "repoName": "altorank",
     "repoBranch": "main"
+  },
+  "alexgreensh/anidoodle": {
+    "name": "alexgreensh/anidoodle",
+    "description": "Art and animation, written as code. Illustrations, loops, interactive web art, launch-videos and scored films in dozens of styles, identical on every render.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alexgreensh",
+    "repoName": "anidoodle",
+    "repoBranch": "main"
+  },
+  "HaoYangJin/Research-workflow-Skill": {
+    "name": "HaoYangJin/Research-workflow-Skill",
+    "description": "\u4e5d\u9636\u6bb5\u79d1\u7814\u5de5\u4f5c\u6d41\u63d2\u4ef6\uff1a\u652f\u6301 Claude Code / Codex\uff0c\u63d0\u4f9b mentor\u3001reviewer\u3001mixed \u6a21\u5f0f\uff0c\u8986\u76d6\u6587\u732e\u3001\u5047\u8bbe\u3001\u5b9e\u9a8c\u3001\u5199\u4f5c\u3001\u81ea\u5ba1\u4e0e\u4fee\u8ba2\uff1b\u5305\u542b\u8bc1\u636e\u8ffd\u8e2a\u3001\u53ef\u590d\u73b0\u5b9e\u9a8c\u3001\u68c0\u67e5\u70b9\u6062\u590d\u548c\u6295\u7a3f\u5c31\u7eea\u8bc4\u4f30\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HaoYangJin",
+    "repoName": "Research-workflow-Skill",
+    "repoBranch": "main"
+  },
+  "p2p2sp/viber": {
+    "name": "p2p2sp/viber",
+    "description": "A development workflow for Claude Code that takes an idea to committed code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "p2p2sp",
+    "repoName": "viber",
+    "repoBranch": "main"
+  },
+  "Krs7N/context-meter": {
+    "name": "Krs7N/context-meter",
+    "description": "Live context-window meter above the Claude Code prompt: animated fill bar, auto-compact headroom, trend, cost, rate limits, one-click effort picker and Clawd.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Krs7N",
+    "repoName": "context-meter",
+    "repoBranch": "main"
+  },
+  "antoine-tena/kiln": {
+    "name": "antoine-tena/kiln",
+    "description": "Make Claude Code build production-grade repos \u2014 and keep them that way.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "antoine-tena",
+    "repoName": "kiln",
+    "repoBranch": "develop"
+  },
+  "CircularBlox/Clarity": {
+    "name": "CircularBlox/Clarity",
+    "description": "A clearer Claude Code terminal: boxed and organized you/claude conversations, colour-coded clickable tool rows, a live status band with a timer and task info, a session panel, copy buttons, cards, alerts, readable pal...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CircularBlox",
+    "repoName": "Clarity",
+    "repoBranch": "main"
+  },
+  "markfulton/safe-keys": {
+    "name": "markfulton/safe-keys",
+    "description": "Paste an API key into Claude Code. Nothing keeps it. A Claude Code mod that keeps credentials out of the chat, the transcript, the screen and the model while your tools still use them. Install: /plugin install safe-ke...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "markfulton",
+    "repoName": "safe-keys",
+    "repoBranch": "main"
+  },
+  "Siin0pe/claude-clapback": {
+    "name": "Siin0pe/claude-clapback",
+    "description": "\ud83c\udfad Claude Code plugin: reaction GIF popup + dry one-liner when your prompt is broken. Multilingual. Never mean to the person.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Siin0pe",
+    "repoName": "claude-clapback",
+    "repoBranch": "main"
+  },
+  "MarcoZorn/adhd-mode": {
+    "name": "MarcoZorn/adhd-mode",
+    "description": "\u26a1 ADHD Mode for Claude Code: a neurodivergent brainstorm team of AI agents. Wild ideas \u2192 technical breakdown \u2192 taste \u2192 blind-jury Idea Court.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MarcoZorn",
+    "repoName": "adhd-mode",
+    "repoBranch": "main"
+  },
+  "LeaveMyYard/herdr-panorama": {
+    "name": "LeaveMyYard/herdr-panorama",
+    "description": "Swarm view for herdr: every Claude Code orchestrator, thread and subagent on one live screen.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LeaveMyYard",
+    "repoName": "herdr-panorama",
+    "repoBranch": "main"
+  },
+  "fuad-daoud/relevo": {
+    "name": "fuad-daoud/relevo",
+    "description": "Automates the plan/report handoff between a MasterMind AI coding agent and the builder agents it hands work to: Claude Code, opencode, codex, agy",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fuad-daoud",
+    "repoName": "relevo",
+    "repoBranch": "main"
+  },
+  "dev-ashishk/instagram-leads-skill": {
+    "name": "dev-ashishk/instagram-leads-skill",
+    "description": "Claude Code skill: find small businesses selling on Instagram through Google search, review them locally, draft first messages. No scraping.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dev-ashishk",
+    "repoName": "instagram-leads-skill",
+    "repoBranch": "main"
+  },
+  "rakaga66/hojas-studio": {
+    "name": "rakaga66/hojas-studio",
+    "description": "Claude Code skill that edits Arabic talking-head videos: smart cuts, word-timed Arabic captions, explainer cards, then a browser timeline to fine-tune and export. Runs locally, no API keys.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rakaga66",
+    "repoName": "hojas-studio",
+    "repoBranch": "main"
   }
 }

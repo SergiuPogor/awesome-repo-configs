@@ -6309,5 +6309,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "MarcoZorn/adhd-mode": {
+    "owner": "MarcoZorn",
+    "name": "adhd-mode",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

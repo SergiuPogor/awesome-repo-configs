@@ -47228,5 +47228,110 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "alexgreensh/anidoodle": {
+        "owner": "alexgreensh",
+        "name": "anidoodle",
+        "branch": "main",
+        "enabled": true
+    },
+    "jxtse/auto-paper-harvester": {
+        "owner": "jxtse",
+        "name": "auto-paper-harvester",
+        "branch": "main",
+        "enabled": true
+    },
+    "Moxibyte/MoxPP": {
+        "owner": "Moxibyte",
+        "name": "MoxPP",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "HaoYangJin/Research-workflow-Skill": {
+        "owner": "HaoYangJin",
+        "name": "Research-workflow-Skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "p2p2sp/viber": {
+        "owner": "p2p2sp",
+        "name": "viber",
+        "branch": "main",
+        "enabled": true
+    },
+    "Atri10/executor": {
+        "owner": "Atri10",
+        "name": "executor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "0mlkrizzz655335v/claude-skills-zh": {
+        "owner": "0mlkrizzz655335v",
+        "name": "claude-skills-zh",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "liush2yuxjtu/html-artifacts": {
+        "owner": "liush2yuxjtu",
+        "name": "html-artifacts",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "aryangole07-hub/claude-useful-skills": {
+        "owner": "aryangole07-hub",
+        "name": "claude-useful-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "antoine-tena/kiln": {
+        "owner": "antoine-tena",
+        "name": "kiln",
+        "branch": "develop",
+        "enabled": true
+    },
+    "markfulton/safe-keys": {
+        "owner": "markfulton",
+        "name": "safe-keys",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Siin0pe/claude-clapback": {
+        "owner": "Siin0pe",
+        "name": "claude-clapback",
+        "branch": "main",
+        "enabled": true
+    },
+    "MarcoZorn/adhd-mode": {
+        "owner": "MarcoZorn",
+        "name": "adhd-mode",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fuad-daoud/relevo": {
+        "owner": "fuad-daoud",
+        "name": "relevo",
+        "branch": "main",
+        "enabled": true
+    },
+    "dev-ashishk/instagram-leads-skill": {
+        "owner": "dev-ashishk",
+        "name": "instagram-leads-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rakaga66/hojas-studio": {
+        "owner": "rakaga66",
+        "name": "hojas-studio",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
